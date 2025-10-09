@@ -1,5 +1,5 @@
 """
-This module defines the acafeed class, which is the main class for the acafeed package.
+This module defines the feedsource class, which is the main class for the feedsource package.
 It creates a dataframe to store the rss feed links and history data.
 It provides methods to add, remove, and update rss feed links,
 as well as to fetch and parse the rss feeds.
@@ -37,9 +37,9 @@ class Feed:
             raise ValueError(f"The link {self.link} is gone (410). Please check if the link is correct.")
 
 
-class Acafeed:
+class FeedSource:
     """
-    The acafeed class is the main class for the acafeed package.
+    The feedsource class is the main class for the feedsource package.
     It creates a dataframe to store the rss feed links and history data.
     It provides methods to add, remove, and update rss feed links,
     as well as to fetch and parse the rss feeds.
@@ -48,7 +48,7 @@ class Acafeed:
 
     def __init__(self):
         """
-        Initializes the acafeed class with an empty dataframe.
+        Initializes the feedsource class with an empty dataframe.
         The dataframe has columns for the rss feed link, title, description,
         last updated time, and history data.
         """
@@ -156,4 +156,51 @@ class Acafeed:
                     print(f"Added On: {feed.add_time}")
                     print(f"Last Updated: {feed.last_updated}")
                     return
-        print(f"The feed {name} was not found in the list.")
+            print(f"The feed {name} was not found in the list.")
+    
+    def load(self, filepath: str):
+        """Loads the feed list from a pickle file.
+
+        Args:
+            filepath (str): The path to the pickle file.
+        """
+        try:
+            with open(filepath, "rb") as f:
+                self._feeds = pickle.load(f)
+            self._feed_names = [feed.name for feed in self._feeds]
+            print(f"Feed list loaded from {filepath}.")
+        except FileNotFoundError:
+            print(f"The file {filepath} was not found.")
+        except Exception as e:
+            print(f"An error occurred while loading the file: {e}")
+    
+    def save(self, filepath: str):
+        """Saves the feed list to a pickle file.
+
+        Args:
+            filepath (str): The path to the pickle file.
+        """
+        try:
+            with open(filepath, "wb") as f:
+                pickle.dump(self._feeds, f)
+            print(f"Feed list saved to {filepath}.")
+        except Exception as e:
+            print(f"An error occurred while saving the file: {e}")
+    
+    def fetch(self, name: str) -> feedparser.FeedParserDict | None:
+        """Fetches and parses the RSS feed by its name.
+
+        Args:
+            name (str): The user-defined name of the feed to fetch.
+
+        Returns:
+            feedparser.FeedParserDict | None: The parsed feed data, or None if not found.
+        """
+        if name not in self._feed_names:
+            print(f"The feed {name} was not found in the list.")
+            return None
+        for feed in self._feeds:
+            if feed.name == name:
+                parsed_feed = feedparser.parse(feed.link)
+                return parsed_feed
+        return None
