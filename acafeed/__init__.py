@@ -1,1 +1,1 @@
-from .acafeed import FeedSource, Feed
+from .feedmanager import FeedSource, Feed
