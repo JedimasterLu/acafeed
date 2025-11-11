@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AcaFeed Combined Feed</title>
+    <link>https://github.com/JedimasterLu/acafeed</link>
+    <description>Aggregated feed generated locally</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Nov 2025 21:25:48 +0000</lastBuildDate>
+    <item>
+      <title>Mechano-induced patterned domain formation by monocytes</title>
+      <link>https://www.nature.com/articles/s41563-025-02397-2</link>
+      <description>&lt;p&gt;Nature Materials, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02397-2"&gt;doi:10.1038/s41563-025-02397-2&lt;/a&gt;&lt;/p&gt;Human primary monocytes reversibly phase separate into regular, multicellular, multilayered domains on soft matrices with physiological stiffness due to local activation and global inhibition processes that occur during random cell migration.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02397-2</guid>
+      <category>Nature Materials</category>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diffracting atoms in solids</title>
+      <link>https://www.nature.com/articles/s41563-025-02401-9</link>
+      <description>&lt;p&gt;Nature Materials, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02401-9"&gt;doi:10.1038/s41563-025-02401-9&lt;/a&gt;&lt;/p&gt;Diffracting atoms in solids</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02401-9</guid>
+      <category>Nature Materials</category>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Non-invasive bioinert room-temperature quantum sensor from silicon carbide qubits</title>
+      <link>https://www.nature.com/articles/s41563-025-02382-9</link>
+      <description>&lt;p&gt;Nature Materials, Published online: 06 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02382-9"&gt;doi:10.1038/s41563-025-02382-9&lt;/a&gt;&lt;/p&gt;Alkene-terminated silicon carbide surfaces are proposed as a room-temperature divacancy spin qubit quantum sensor suitable for bioimaging and nanoscale nuclear spin sensing.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02382-9</guid>
+      <category>Nature Materials</category>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mechanical non-reciprocity programmed by shear jamming in soft composite solids</title>
+      <link>https://www.nature.com/articles/s41563-025-02407-3</link>
+      <description>&lt;p&gt;Nature Materials, Published online: 07 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02407-3"&gt;doi:10.1038/s41563-025-02407-3&lt;/a&gt;&lt;/p&gt;Using the shear jamming transition within soft composite solids, non-reciprocal mechanics are achieved for the asymmetric spatiotemporal control of soft materials.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02407-3</guid>
+      <category>Nature Materials</category>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Facets as the key to stable perovskites</title>
+      <link>https://www.nature.com/articles/s41563-025-02406-4</link>
+      <description>&lt;p&gt;Nature Materials, Published online: 07 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02406-4"&gt;doi:10.1038/s41563-025-02406-4&lt;/a&gt;&lt;/p&gt;An intermediate phase steers the preferential {100} orientation of evaporated perovskites, securing long-term device stability for perovskite photovoltaics.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02406-4</guid>
+      <category>Nature Materials</category>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Electrical control of silicon T centres</title>
+      <link>https://www.nature.com/articles/s41563-025-02415-3</link>
+      <description>&lt;p&gt;Nature Materials, Published online: 07 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02415-3"&gt;doi:10.1038/s41563-025-02415-3&lt;/a&gt;&lt;/p&gt;Electrical control of silicon T centres</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02415-3</guid>
+      <category>Nature Materials</category>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

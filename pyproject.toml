@@ -6,9 +6,17 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "coverage>=7.10.7",
+    "feedgen>=1.0.0",
     "feedparser>=6.0.12",
+    "flask>=3.1.2",
+    "flask-tunnel>=0.1.5",
     "pandas>=2.3.3",
 ]
 
 [project.scripts]
 acafeed = "acafeed.main:main"
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+]
