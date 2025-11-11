@@ -53,7 +53,12 @@ class FeedSource:
         last updated time, and history data.
         """
         self._feeds: list[Feed] = []
-        self._feed_names: list[str] = []
+    
+    @property
+    def names(self) -> list[str]:
+        """Returns the list of feed names."""
+        names = [feed.name for feed in self._feeds]
+        return names
     
     def add(self, link: str, name: str):
         """Adds a new RSS feed to the list.
@@ -66,14 +71,13 @@ class FeedSource:
             ValueError: If the link is gone (410).
         """
         # Check if the feed name is already in the list
-        if name in self._feed_names:
+        if name in self.names:
             print(f"The feed name {name} is already in use. Please choose a different name.")
             return
         # Add the new feed
         now = datetime.datetime.now()
         new_feed = Feed(link=link, name=name, add_time=now, last_updated=now)
         self._feeds.append(new_feed)
-        self._feed_names.append(name)
         print(f"The feed {name} has been added.")
     
     def remove(self, name: str):
@@ -85,7 +89,6 @@ class FeedSource:
         for i, feed in enumerate(self._feeds):
             if feed.name == name:
                 self._feeds.pop(i)
-                self._feed_names.remove(name)
                 print(f"The feed {name} has been removed.")
                 return
         print(f"The feed {name} was not found in the list.")
@@ -112,13 +115,11 @@ class FeedSource:
                     feed.link = new_link
                 if new_name is not None:
                     # Check if the new name is already in use
-                    if new_name in self._feed_names:
+                    if new_name in self.names:
                         print(f"The feed name {new_name} is already in use. \
                               Please choose a different name.")
                         return
                     feed.name = new_name
-                    self._feed_names.remove(name)
-                    self._feed_names.append(new_name)
                 print(f"The feed {name} has been updated.")
                 return
             
@@ -167,7 +168,6 @@ class FeedSource:
         try:
             with open(filepath, "rb") as f:
                 self._feeds = pickle.load(f)
-            self._feed_names = [feed.name for feed in self._feeds]
             print(f"Feed list loaded from {filepath}.")
         except FileNotFoundError:
             print(f"The file {filepath} was not found.")
@@ -196,7 +196,7 @@ class FeedSource:
         Returns:
             feedparser.FeedParserDict | None: The parsed feed data, or None if not found.
         """
-        if name not in self._feed_names:
+        if name not in self.names:
             print(f"The feed {name} was not found in the list.")
             return None
         for feed in self._feeds:
