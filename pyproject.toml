@@ -5,12 +5,19 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "accelerate>=1.11.0",
     "coverage>=7.10.7",
+    "datasets>=4.4.1",
     "feedgen>=1.0.0",
     "feedparser>=6.0.12",
     "flask>=3.1.2",
     "flask-tunnel>=0.1.5",
+    "ipywidgets>=8.1.8",
+    "kagglehub[pandas-datasets]>=0.3.13",
     "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "torch>=2.9.1",
+    "transformers[torch]>=4.57.1",
 ]
 
 [project.scripts]
