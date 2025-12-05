@@ -1,12 +1,14 @@
 def arxiv_abbr() -> dict[str, str]:
     """Return a dictionary mapping arXiv subject class abbreviations to their full names."""
     _abbr = {
+        "astro-ph": "Astrophysics",
         "astro-ph.CO": "Cosmology and Nongalactic Astrophysics",
         "astro-ph.EP": "Earth and Planetary Astrophysics",
         "astro-ph.GA": "Astrophysics of Galaxies",
         "astro-ph.HE": "High Energy Astrophysical Phenomena",
         "astro-ph.IM": "Instrumentation and Methods for Astrophysics",
         "astro-ph.SR": "Solar and Stellar Astrophysics",
+        "cond-mat": "Condensed Matter",
         "cond-mat.dis-nn": "Disordered Systems and Neural Networks",
         "cond-mat.mes-hall": "Mesoscale and Nanoscale Physics",
         "cond-mat.mtrl-sci": "Materials Science",
@@ -101,6 +103,7 @@ def arxiv_abbr() -> dict[str, str]:
         "math.SG": "Symplectic Geometry",
         "math.SP": "Spectral Theory",
         "math.ST": "Statistics Theory",
+        "nlin": "Nonlinear Sciences",
         "nlin.AO": "Adaptation and Self-Organizing Systems",
         "nlin.CD": "Chaotic Dynamics",
         "nlin.CG": "Cellular Automata and Lattice Gases",
@@ -108,6 +111,7 @@ def arxiv_abbr() -> dict[str, str]:
         "nlin.SI": "Exactly Solvable and Integrable Systems",
         "nucl-ex": "Nuclear Experiment",
         "nucl-th": "Nuclear Theory",
+        "physics": "Physics",
         "physics.acc-ph": "Accelerator Physics",
         "physics.ao-ph": "Atmospheric and Oceanic Physics",
         "physics.app-ph": "Applied Physics",
