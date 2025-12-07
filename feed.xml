@@ -7,7 +7,63 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Dec 2025 18:49:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 18:49:41 +0000</lastBuildDate>
+    <item>
+      <title>Electrical control of photon spin angular momentum in organic electroluminescent materials</title>
+      <link>https://www.nature.com/articles/s41566-025-01780-4</link>
+      <description>&lt;p&gt;Nature Photonics, Published online: 26 November 2025; &lt;a href="https://www.nature.com/articles/s41566-025-01780-4"&gt;doi:10.1038/s41566-025-01780-4&lt;/a&gt;&lt;/p&gt;Electrical tuning of the recombination zone in circularly polarized (CP) OLEDs enables switching the CP generation mechanism between normal and anomalous CP electroluminescence. This is exploited to electrically control the handedness of emitted CP light from the same device with the same enantiomer material.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41566-025-01780-4</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Improving electron microscopy with light</title>
+      <link>https://www.nature.com/articles/s41566-025-01798-8</link>
+      <description>&lt;p&gt;Nature Photonics, Published online: 02 December 2025; &lt;a href="https://www.nature.com/articles/s41566-025-01798-8"&gt;doi:10.1038/s41566-025-01798-8&lt;/a&gt;&lt;/p&gt;Shining intense laser pulses on an electron beam in an electron microscope corrects electron-optical spherical aberration, paving the way to using light to improve electron microscopy imaging.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41566-025-01798-8</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>New photodiodes ready to bridge optical and sub-THz communications</title>
+      <link>https://www.nature.com/articles/s41566-025-01814-x</link>
+      <description>&lt;p&gt;Nature Photonics, Published online: 02 December 2025; &lt;a href="https://www.nature.com/articles/s41566-025-01814-x"&gt;doi:10.1038/s41566-025-01814-x&lt;/a&gt;&lt;/p&gt;Simultaneous high-bandwidth and high-optoelectronic conversion efficiency in photodiodes is difficult to achieve. Now, researchers have demonstrated waveguide-integrated photodiodes with over 200 GHz bandwidth, 0.81 A/W responsivity and a bandwidth–efficiency product of 133.5 GHz, thus enabling amplifier-free 120 Gbps wireless transmission over 54 m.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41566-025-01814-x</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A light-actuated microfluidic playground</title>
+      <link>https://www.nature.com/articles/s41566-025-01804-z</link>
+      <description>&lt;p&gt;Nature Photonics, Published online: 02 December 2025; &lt;a href="https://www.nature.com/articles/s41566-025-01804-z"&gt;doi:10.1038/s41566-025-01804-z&lt;/a&gt;&lt;/p&gt;Structured light and photothermal conversion are used to create reconfigurable thermal barriers in a microfluidic device. These virtual barriers can be used to dynamically control fluid flow and microparticle trajectories.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41566-025-01804-z</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Polymer dots for nanoscale live-cell imaging</title>
+      <link>https://www.nature.com/articles/s41566-025-01811-0</link>
+      <description>&lt;p&gt;Nature Photonics, Published online: 02 December 2025; &lt;a href="https://www.nature.com/articles/s41566-025-01811-0"&gt;doi:10.1038/s41566-025-01811-0&lt;/a&gt;&lt;/p&gt;Vitrification of polymer solutions yields ultrasmall fluorescent polymer dots that combine dye-like size with nanoparticle brightness, enabling nanometre-precision live-cell tracking on standard microscopes.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41566-025-01811-0</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Photonics based cooling outpaces policy</title>
+      <link>https://www.nature.com/articles/s41566-025-01813-y</link>
+      <description>&lt;p&gt;Nature Photonics, Published online: 02 December 2025; &lt;a href="https://www.nature.com/articles/s41566-025-01813-y"&gt;doi:10.1038/s41566-025-01813-y&lt;/a&gt;&lt;/p&gt;500,000 heat-related deaths occur each year, according to the World Health Organization. Passive and active photonic-based cooling strategies were discussed at a recent Sydney Radiative Cooling Workshop.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41566-025-01813-y</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Entering the vacuum ultraviolet</title>
+      <link>https://www.nature.com/articles/s41566-025-01816-9</link>
+      <description>&lt;p&gt;Nature Photonics, Published online: 02 December 2025; &lt;a href="https://www.nature.com/articles/s41566-025-01816-9"&gt;doi:10.1038/s41566-025-01816-9&lt;/a&gt;&lt;/p&gt;Entering the vacuum ultraviolet</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41566-025-01816-9</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An optical conveyor belt for 3,000 qubits</title>
+      <link>https://www.nature.com/articles/s41566-025-01820-z</link>
+      <description>&lt;p&gt;Nature Photonics, Published online: 02 December 2025; &lt;a href="https://www.nature.com/articles/s41566-025-01820-z"&gt;doi:10.1038/s41566-025-01820-z&lt;/a&gt;&lt;/p&gt;An optical conveyor belt for 3,000 qubits</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41566-025-01820-z</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Self-assembled cell-scale containers made from DNA origami membranes</title>
       <link>https://www.nature.com/articles/s41563-025-02418-0</link>
