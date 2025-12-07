@@ -7,587 +7,62 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Nov 2025 22:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 18:05:53 +0000</lastBuildDate>
     <item>
-      <title>Large-scale quantum dot–lithium niobate hybrid integrated photonic circuits enabling on-chip quantum networking</title>
-      <link>https://www.nature.com/articles/s41563-025-02398-1</link>
-      <description>&lt;p&gt;Nature Materials, Published online: 04 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02398-1"&gt;doi:10.1038/s41563-025-02398-1&lt;/a&gt;&lt;/p&gt;Individual spectral strain tuning of waveguide-coupled quantum dot single-photon emitters into a thin-film lithium niobate photonic platform is demonstrated, allowing quantum interference of two spatially separated quantum dot single-photon emitters.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02398-1</guid>
-      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+      <title>Parallel stopped-flow interrogation of diverse biological systems at the single-molecule scale</title>
+      <link>https://www.nature.com/articles/s41592-025-02944-4</link>
+      <description>&lt;p&gt;Nature Methods, Published online: 02 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02944-4"&gt;doi:10.1038/s41592-025-02944-4&lt;/a&gt;&lt;/p&gt;Parallelized single-molecule fluorescence and single-molecule FRET experiments enable quantitative biophysics investigations of molecular function from multiple samples in a single experiment.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02944-4</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pore network tortuosity controls fast charging in supercapacitors</title>
-      <link>https://www.nature.com/articles/s41563-025-02404-6</link>
-      <description>&lt;p&gt;Nature Materials, Published online: 04 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02404-6"&gt;doi:10.1038/s41563-025-02404-6&lt;/a&gt;&lt;/p&gt;Supercapacitors are fast-charging energy-storage devices. However, an understanding of how structure impacts high-power energy storage is still lacking. Here pulsed-field-gradient nuclear magnetic resonance measurements show that the pore network tortuosity, rather than traditional porosity analyses, in porous carbon dictates the speed of supercapacitor charging.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02404-6</guid>
-      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+      <title>CaBLAM: a high-contrast bioluminescent Ca&lt;sup&gt;2+&lt;/sup&gt; indicator derived from an engineered &lt;i&gt;Oplophorus gracilirostris&lt;/i&gt; luciferase</title>
+      <link>https://www.nature.com/articles/s41592-025-02972-0</link>
+      <description>&lt;p&gt;Nature Methods, Published online: 02 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02972-0"&gt;doi:10.1038/s41592-025-02972-0&lt;/a&gt;&lt;/p&gt;CaBLAM is a bioluminescent genetically encoded calcium indicator that delivers high-contrast signals as shown in cell culture, in the in vivo mouse brain and in zebrafish larvae.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02972-0</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mechano-induced patterned domain formation by monocytes</title>
-      <link>https://www.nature.com/articles/s41563-025-02397-2</link>
-      <description>&lt;p&gt;Nature Materials, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02397-2"&gt;doi:10.1038/s41563-025-02397-2&lt;/a&gt;&lt;/p&gt;Human primary monocytes reversibly phase separate into regular, multicellular, multilayered domains on soft matrices with physiological stiffness due to local activation and global inhibition processes that occur during random cell migration.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02397-2</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <title>Atom-level enzyme active site scaffolding using RFdiffusion2</title>
+      <link>https://www.nature.com/articles/s41592-025-02975-x</link>
+      <description>&lt;p&gt;Nature Methods, Published online: 03 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02975-x"&gt;doi:10.1038/s41592-025-02975-x&lt;/a&gt;&lt;/p&gt;RFdiffusion2, an extension of the RFdiffusion framework, builds de novo enzyme active sites using atom-level functional group constraints.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02975-x</guid>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Diffracting atoms in solids</title>
-      <link>https://www.nature.com/articles/s41563-025-02401-9</link>
-      <description>&lt;p&gt;Nature Materials, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02401-9"&gt;doi:10.1038/s41563-025-02401-9&lt;/a&gt;&lt;/p&gt;Diffracting atoms in solids</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02401-9</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <title>Two as one: when scientists run a lab together</title>
+      <link>https://www.nature.com/articles/s41592-025-02938-2</link>
+      <description>&lt;p&gt;Nature Methods, Published online: 03 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02938-2"&gt;doi:10.1038/s41592-025-02938-2&lt;/a&gt;&lt;/p&gt;Leading a lab is both a venture and an adventure. It’s double that for these researchers.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02938-2</guid>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Non-invasive bioinert room-temperature quantum sensor from silicon carbide qubits</title>
-      <link>https://www.nature.com/articles/s41563-025-02382-9</link>
-      <description>&lt;p&gt;Nature Materials, Published online: 06 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02382-9"&gt;doi:10.1038/s41563-025-02382-9&lt;/a&gt;&lt;/p&gt;Alkene-terminated silicon carbide surfaces are proposed as a room-temperature divacancy spin qubit quantum sensor suitable for bioimaging and nanoscale nuclear spin sensing.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02382-9</guid>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <title>C-COMPASS: a user-friendly neural network tool profiles cell compartments at protein and lipid levels</title>
+      <link>https://www.nature.com/articles/s41592-025-02880-3</link>
+      <description>&lt;p&gt;Nature Methods, Published online: 04 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02880-3"&gt;doi:10.1038/s41592-025-02880-3&lt;/a&gt;&lt;/p&gt;C-COMPASS is an open-source software designed to predict the spatial cellular distribution of proteins and lipids from cellular organelle profiling using a neural network-based regression model.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02880-3</guid>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mechanical non-reciprocity programmed by shear jamming in soft composite solids</title>
-      <link>https://www.nature.com/articles/s41563-025-02407-3</link>
-      <description>&lt;p&gt;Nature Materials, Published online: 07 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02407-3"&gt;doi:10.1038/s41563-025-02407-3&lt;/a&gt;&lt;/p&gt;Using the shear jamming transition within soft composite solids, non-reciprocal mechanics are achieved for the asymmetric spatiotemporal control of soft materials.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02407-3</guid>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <title>Latent space-based network analysis for brain–behavior linking in neuroimaging</title>
+      <link>https://www.nature.com/articles/s41592-025-02896-9</link>
+      <description>&lt;p&gt;Nature Methods, Published online: 04 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02896-9"&gt;doi:10.1038/s41592-025-02896-9&lt;/a&gt;&lt;/p&gt;LatentSNA is a method for network analysis in human neuroimaging. It facilitates linking neural activity with behavior and improves biomarker prediction by reducing type II errors.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02896-9</guid>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Facets as the key to stable perovskites</title>
-      <link>https://www.nature.com/articles/s41563-025-02406-4</link>
-      <description>&lt;p&gt;Nature Materials, Published online: 07 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02406-4"&gt;doi:10.1038/s41563-025-02406-4&lt;/a&gt;&lt;/p&gt;An intermediate phase steers the preferential {100} orientation of evaporated perovskites, securing long-term device stability for perovskite photovoltaics.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02406-4</guid>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <title>Deep Imputation for Skeleton data (DISK) for behavioral science</title>
+      <link>https://www.nature.com/articles/s41592-025-02893-y</link>
+      <description>&lt;p&gt;Nature Methods, Published online: 04 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02893-y"&gt;doi:10.1038/s41592-025-02893-y&lt;/a&gt;&lt;/p&gt;Analysis of behavioral data often involves tracking animal keypoints in video and motion capture recordings. DISK imputes missing keypoints, thereby improving downstream analyses.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02893-y</guid>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Electrical control of silicon T centres</title>
-      <link>https://www.nature.com/articles/s41563-025-02415-3</link>
-      <description>&lt;p&gt;Nature Materials, Published online: 07 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02415-3"&gt;doi:10.1038/s41563-025-02415-3&lt;/a&gt;&lt;/p&gt;Electrical control of silicon T centres</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02415-3</guid>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Antibody drugs show promise for treating bird flu and HIV</title>
-      <link>https://www.nature.com/articles/d41586-025-03540-4</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03540-4"&gt;doi:10.1038/d41586-025-03540-4&lt;/a&gt;&lt;/p&gt;Scientists are developing antibodies to track the evolution of these viruses and better treat infections.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03540-4</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adenosine signalling drives antidepressant actions of ketamine and ECT</title>
-      <link>https://www.nature.com/articles/s41586-025-09755-9</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09755-9"&gt;doi:10.1038/s41586-025-09755-9&lt;/a&gt;&lt;/p&gt;Adenosine signalling is identified as the central mechanism of action of the antidepressant effects of ketamine and electroconvulsive therapy, and newly developed analogues of ketamine exhibit improved antidepressant efficacy with reduced side effects.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09755-9</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transcriptomic and spatial organization of telencephalic GABAergic neurons</title>
-      <link>https://www.nature.com/articles/s41586-025-09296-1</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09296-1"&gt;doi:10.1038/s41586-025-09296-1&lt;/a&gt;&lt;/p&gt;Long-distance migration and dispersion is a common characteristic of nearly all classes of telencephalic GABAergic neurons, which diversify extensively after birth in the cortex and striatum, but show limited postnatal changes in the septum, preoptic area and pallidum.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09296-1</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Millisecond lifetimes and coherence times in 2D transmon qubits</title>
-      <link>https://www.nature.com/articles/s41586-025-09687-4</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09687-4"&gt;doi:10.1038/s41586-025-09687-4&lt;/a&gt;&lt;/p&gt;A materials platform using tantalum as a base layer and silicon as the substrate to construct superconducting qubits enables device performance improvements such as millisecond lifetimes and coherence times, as well as high time-averaged quality factors.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09687-4</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Specificity, length and luck drive gene rankings in association studies</title>
-      <link>https://www.nature.com/articles/s41586-025-09703-7</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09703-7"&gt;doi:10.1038/s41586-025-09703-7&lt;/a&gt;&lt;/p&gt;Genetic association tests prioritize candidate genes based on different criteria.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09703-7</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The importance of past rifting in large igneous province development</title>
-      <link>https://www.nature.com/articles/s41586-025-09668-7</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09668-7"&gt;doi:10.1038/s41586-025-09668-7&lt;/a&gt;&lt;/p&gt;Seismic data from the Turkana Depression in East Africa show that areas of thinned lithosphere are not necessarily persistent weak zones where extension and magmatic provinces will develop.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09668-7</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spatial dynamics of brain development and neuroinflammation</title>
-      <link>https://www.nature.com/articles/s41586-025-09663-y</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09663-y"&gt;doi:10.1038/s41586-025-09663-y&lt;/a&gt;&lt;/p&gt;A tri-omic atlas of the mouse brain from postnatal day 0 to P21 reveals that layer-specific projection neurons have a role in coordinating axonogenesis and myelination.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09663-y</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A probabilistic histological atlas of the human brain for MRI segmentation</title>
-      <link>https://www.nature.com/articles/s41586-025-09708-2</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09708-2"&gt;doi:10.1038/s41586-025-09708-2&lt;/a&gt;&lt;/p&gt;NextBrain is an open source, probabilistic atlas of the entire human brain, assembled using artificial-intelligence-enabled registration and segmentation methods to reconstruct the multimodal serial histology of five human half brains, and which can be used to automatically segment brain MRI scans into 333 regions.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09708-2</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anti-progestin therapy targets hallmarks of breast cancer risk</title>
-      <link>https://www.nature.com/articles/s41586-025-09684-7</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09684-7"&gt;doi:10.1038/s41586-025-09684-7&lt;/a&gt;&lt;/p&gt;Results of an early-phase breast cancer prevention trial demonstrate the potential for breast cancer prevention in premenopausal women with anti-progestin therapy by inducing epithelial–stromal remodelling and suppression of luminal progenitors.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09684-7</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Eight millennia of continuity of a previously unknown lineage in Argentina</title>
-      <link>https://www.nature.com/articles/s41586-025-09731-3</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09731-3"&gt;doi:10.1038/s41586-025-09731-3&lt;/a&gt;&lt;/p&gt;A previously unsampled deep lineage in central Argentina was discovered that had distinctive genetic drift by 8,500 bp and persisted as the main Native American ancestry component in the region up to the present day.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09731-3</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Two residues reprogram immunity receptors for nitrogen-fixing symbiosis</title>
-      <link>https://www.nature.com/articles/s41586-025-09696-3</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09696-3"&gt;doi:10.1038/s41586-025-09696-3&lt;/a&gt;&lt;/p&gt;An investigation of plant receptor-like kinases identifies regions of these proteins that control whether immune or symbiotic signalling pathways are activated, with minimal changes to specific residues in one of these regions being sufficient to alter signalling specificity.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09696-3</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Conservation and alteration of mammalian striatal interneurons</title>
-      <link>https://www.nature.com/articles/s41586-025-09592-w</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09592-w"&gt;doi:10.1038/s41586-025-09592-w&lt;/a&gt;&lt;/p&gt;An analysis of cell-type diversity in brain samples from a variety of mammalian species, both during development and in adult animals, reveals that the TAC3 initial class of striatal interneurons is conserved across placental mammals and is homologous to Th striatal interneurons in rodents.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09592-w</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Structural snapshots capture nucleotide release at the μ-opioid receptor</title>
-      <link>https://www.nature.com/articles/s41586-025-09677-6</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09677-6"&gt;doi:10.1038/s41586-025-09677-6&lt;/a&gt;&lt;/p&gt;Structures of GDP-bound MOR–Gi conformational states combined with pharmacological assays show an inverse correlation between ligand efficacy and GDP affinity, where agonists decrease GDP affinity, promoting GTP exchange, and antagonists increase GDP affinity, dampening activation, thus providing structural and mechanistic insights into G protein activation.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09677-6</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Continuous cell-type diversification in mouse visual cortex development</title>
-      <link>https://www.nature.com/articles/s41586-025-09644-1</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09644-1"&gt;doi:10.1038/s41586-025-09644-1&lt;/a&gt;&lt;/p&gt;A high-resolution transcriptomic and epigenomic cell-type atlas of the developing mouse visual cortex from embryonic to postnatal development is presented, providing a real-time dynamic molecular map associated with individual cell types and specific developmental events.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09644-1</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lineage-resolved atlas of the developing human cortex</title>
-      <link>https://www.nature.com/articles/s41586-025-09033-8</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09033-8"&gt;doi:10.1038/s41586-025-09033-8&lt;/a&gt;&lt;/p&gt;Lineage tracing in human tissue samples from gestational weeks 16 to 24 provides insight into lineage relationships between cortical cell types and shows a switch in progenitor output from glutamatergic to GABAergic neurons.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09033-8</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Atomically accurate de novo design of antibodies with RFdiffusion</title>
-      <link>https://www.nature.com/articles/s41586-025-09721-5</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09721-5"&gt;doi:10.1038/s41586-025-09721-5&lt;/a&gt;&lt;/p&gt;The combination of computational design, laboratory-based screening and biophysical validation enables the de novo generation of variable heavy-chain antibody fragments and antibodies that precisely target chosen disease-related molecules.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09721-5</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lymphoid gene expression supports neuroprotective microglia function</title>
-      <link>https://www.nature.com/articles/s41586-025-09662-z</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09662-z"&gt;doi:10.1038/s41586-025-09662-z&lt;/a&gt;&lt;/p&gt;PU.1low CD28-expressing microglia may act as suppressive cells in Alzheimer’s disease, mitigating its progression by reducing neuroinflammation and amyloid plaque load, indicating potential immunotherapeutic approaches for treatment.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09662-z</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Synthetic α-synuclein fibrils replicate in mice causing MSA-like pathology</title>
-      <link>https://www.nature.com/articles/s41586-025-09698-1</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09698-1"&gt;doi:10.1038/s41586-025-09698-1&lt;/a&gt;&lt;/p&gt;Synthetic fibril strain 1B is a pathogen that is capable of self-replication and inducing glial cytoplasmic inclusions in vivo in mice, and the structural features of 1B may underlie the pathology of individuals with multiple-system atrophy.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09698-1</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Global satellite survey reveals uncertainty in landfill methane emissions</title>
-      <link>https://www.nature.com/articles/s41586-025-09683-8</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09683-8"&gt;doi:10.1038/s41586-025-09683-8&lt;/a&gt;&lt;/p&gt;High-resolution satellites reveal major uncertainties in methane emissions from global waste sites, highlighting the need to reconcile observed and reported data, with actionable insights to improve estimates and guide targeted mitigation efforts.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09683-8</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fair human-centric image dataset for ethical AI benchmarking</title>
-      <link>https://www.nature.com/articles/s41586-025-09716-2</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09716-2"&gt;doi:10.1038/s41586-025-09716-2&lt;/a&gt;&lt;/p&gt;The Fair Human-Centric Image Benchmark (FHIBE, pronounced ‘Feebee’)—an image dataset that implements best practices for consent, privacy, compensation, safety, diversity and utility—can be used responsibly as a fairness evaluation dataset for many human-centric computer vision applications.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09716-2</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lymph node environment drives FSP1 targetability in metastasizing melanoma</title>
-      <link>https://www.nature.com/articles/s41586-025-09709-1</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09709-1"&gt;doi:10.1038/s41586-025-09709-1&lt;/a&gt;&lt;/p&gt;Targeting FSP1 in lymph nodes has considerable potential for blocking melanoma progression.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09709-1</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The new frontier in understanding human and mammalian brain development</title>
-      <link>https://www.nature.com/articles/s41586-025-09652-1</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09652-1"&gt;doi:10.1038/s41586-025-09652-1&lt;/a&gt;&lt;/p&gt;Recent studies integrating multi-omics data with cell atlases across development for brains of humans and model organisms are revealing conserved and divergent patterns of brain development at the molecular and cellular levels, and linking these to complex behavioural and neuropsychiatric phenotypes.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09652-1</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vector-stimuli-responsive magnetorheological fibrous materials</title>
-      <link>https://www.nature.com/articles/s41586-025-09706-4</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09706-4"&gt;doi:10.1038/s41586-025-09706-4&lt;/a&gt;&lt;/p&gt;Vector-stimuli-responsive magnetorheological fibrous materials can be mass-produced, which can be assembled into yarns and woven into a variety of fabrics with actuation and stiffening abilities.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09706-4</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assessing phylogenetic confidence at pandemic scales</title>
-      <link>https://www.nature.com/articles/s41586-025-09567-x</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09567-x"&gt;doi:10.1038/s41586-025-09567-x&lt;/a&gt;&lt;/p&gt;A method using subtree pruning and regrafting-based tree assessment (SPRTA), which considers evolutionary relationships between lineages, enhances interpretability of phylogenetic analyses such as those of SARS-CoV-2 variants.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09567-x</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Secretome translation shaped by lysosomes and lunapark-marked ER junctions</title>
-      <link>https://www.nature.com/articles/s41586-025-09718-0</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09718-0"&gt;doi:10.1038/s41586-025-09718-0&lt;/a&gt;&lt;/p&gt;Live-cell imaging of mRNA encoding secretome proteins and translated nascent peptide markers show that secretome translation occurs at endoplasmic reticulum junctions near lysosomes, requires lunapark protein and is modulated by nutrient status.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09718-0</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Targeting FSP1 triggers ferroptosis in lung cancer</title>
-      <link>https://www.nature.com/articles/s41586-025-09710-8</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09710-8"&gt;doi:10.1038/s41586-025-09710-8&lt;/a&gt;&lt;/p&gt;The ferroptosis suppressor protein FSP1 has a critical role in ferroptosis protection of tumours across multiple in vivo models and is linked to worse prognosis in human lung adenocarcinoma, suggesting its potential as a therapeutic target in lung cancer.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09710-8</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dispersion-engineered multipass optical parametric amplification</title>
-      <link>https://www.nature.com/articles/s41586-025-09665-w</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09665-w"&gt;doi:10.1038/s41586-025-09665-w&lt;/a&gt;&lt;/p&gt;A multipass optical parametric amplifier leverages dispersion-engineered dielectric mirrors to overcome the gain versus bandwidth trade-off and achieve broadband amplification with high gain within a compact device.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09665-w</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Meet the ‘Wee-rex’. Tiny tyrannosaur is its own species</title>
-      <link>https://www.nature.com/articles/d41586-025-03642-z</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03642-z"&gt;doi:10.1038/d41586-025-03642-z&lt;/a&gt;&lt;/p&gt;Growth rings in fossilized bones suggest the diminutive dinosaur, Nanotyrannus, would never grow up to become a T. rex — plus, a small breast cancer prevention trial shows promise.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03642-z</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Myriad Aryne Derivatives from Carboxylic Acids</title>
-      <link>https://www.nature.com/articles/s41586-025-09830-1</link>
-      <description>&lt;p&gt;Nature, Published online: 05 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09830-1"&gt;doi:10.1038/s41586-025-09830-1&lt;/a&gt;&lt;/p&gt;Myriad Aryne Derivatives from Carboxylic Acids</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09830-1</guid>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>First-ever atlas of brain development shows how stem cells turn into neurons</title>
-      <link>https://www.nature.com/articles/d41586-025-03641-0</link>
-      <description>&lt;p&gt;Nature, Published online: 06 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03641-0"&gt;doi:10.1038/d41586-025-03641-0&lt;/a&gt;&lt;/p&gt;A collection of studies that chart how mammalian brain cells grow and differentiate is a ‘very valuable’ tool for neuroscientists.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03641-0</guid>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Daily briefing: ‘Mind captioning’ AI describes the images in your head</title>
-      <link>https://www.nature.com/articles/d41586-025-03671-8</link>
-      <description>&lt;p&gt;Nature, Published online: 06 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03671-8"&gt;doi:10.1038/d41586-025-03671-8&lt;/a&gt;&lt;/p&gt;AI model can translate scenes in your head into sentences. Plus, iguanas were wrongly accused of invading a Mexican island and the ‘shadow scholars’ paid to write for others.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03671-8</guid>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Google Maps’ for Roman roads reveals vast extent of ancient network</title>
-      <link>https://www.nature.com/articles/d41586-025-03626-z</link>
-      <description>&lt;p&gt;Nature, Published online: 06 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03626-z"&gt;doi:10.1038/d41586-025-03626-z&lt;/a&gt;&lt;/p&gt;A high-resolution digital map nearly doubles the known length of the ancient road network.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03626-z</guid>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shadow scholars: inside Kenya’s multibillion-dollar fake-essay industry</title>
-      <link>https://www.nature.com/articles/d41586-025-03399-5</link>
-      <description>&lt;p&gt;Nature, Published online: 06 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03399-5"&gt;doi:10.1038/d41586-025-03399-5&lt;/a&gt;&lt;/p&gt;Sociologist Patricia Kingori is helping to expose contract cheating by scholars in high-income countries.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03399-5</guid>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>An ATP-gated molecular switch orchestrates human messenger RNA export</title>
-      <link>https://www.nature.com/articles/s41586-025-09832-z</link>
-      <description>&lt;p&gt;Nature, Published online: 06 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09832-z"&gt;doi:10.1038/s41586-025-09832-z&lt;/a&gt;&lt;/p&gt;An ATP-gated molecular switch orchestrates human messenger RNA export</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09832-z</guid>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Author Correction: TNF-mediated inflammatory skin disease in mice with epidermis-specific deletion of IKK2</title>
-      <link>https://www.nature.com/articles/s41586-025-09789-z</link>
-      <description>&lt;p&gt;Nature, Published online: 06 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09789-z"&gt;doi:10.1038/s41586-025-09789-z&lt;/a&gt;&lt;/p&gt;Author Correction: TNF-mediated inflammatory skin disease in mice with epidermis-specific deletion of IKK2</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09789-z</guid>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Author Correction: The emergence of transcriptional identity in somatosensory neurons</title>
-      <link>https://www.nature.com/articles/s41586-025-09817-y</link>
-      <description>&lt;p&gt;Nature, Published online: 06 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09817-y"&gt;doi:10.1038/s41586-025-09817-y&lt;/a&gt;&lt;/p&gt;Author Correction: The emergence of transcriptional identity in somatosensory neurons</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09817-y</guid>
-      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>International PhD student numbers in US hold steady — for now</title>
-      <link>https://www.nature.com/articles/d41586-025-03653-w</link>
-      <description>&lt;p&gt;Nature, Published online: 07 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03653-w"&gt;doi:10.1038/d41586-025-03653-w&lt;/a&gt;&lt;/p&gt;Trend flies in face of Trump-administration policies, but could yet see a rapid decrease, especially in science fields.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03653-w</guid>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Daily briefing: A ‘Google Maps’ for Roman roads</title>
-      <link>https://www.nature.com/articles/d41586-025-03674-5</link>
-      <description>&lt;p&gt;Nature, Published online: 07 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03674-5"&gt;doi:10.1038/d41586-025-03674-5&lt;/a&gt;&lt;/p&gt;The full glory of the network of roads that connected the Roman empire. Plus, meet some of the scientists running for public office in the United States and how a tiny tyrannosaur is putting a palaeontological controversy to bed.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03674-5</guid>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How scientists exposed to other people’s trauma find support</title>
-      <link>https://www.nature.com/articles/d41586-025-03485-8</link>
-      <description>&lt;p&gt;Nature, Published online: 07 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03485-8"&gt;doi:10.1038/d41586-025-03485-8&lt;/a&gt;&lt;/p&gt;Vicarious trauma is an occupational risk for some researchers. But there are strategies to cope.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03485-8</guid>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Outside the window</title>
-      <link>https://www.nature.com/articles/d41586-025-03600-9</link>
-      <description>&lt;p&gt;Nature, Published online: 07 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03600-9"&gt;doi:10.1038/d41586-025-03600-9&lt;/a&gt;&lt;/p&gt;A life well lived.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03600-9</guid>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pressure to publish is rising as research time shrinks, finds survey of scientists</title>
-      <link>https://www.nature.com/articles/d41586-025-03623-2</link>
-      <description>&lt;p&gt;Nature, Published online: 07 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03623-2"&gt;doi:10.1038/d41586-025-03623-2&lt;/a&gt;&lt;/p&gt;Researchers feel that pressures to publish are increasing, but the time and resources available to do research are decreasing, according to a survey by Elsevier.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03623-2</guid>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Preprint site arXiv is banning computer-science reviews: here’s why</title>
-      <link>https://www.nature.com/articles/d41586-025-03664-7</link>
-      <description>&lt;p&gt;Nature, Published online: 07 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03664-7"&gt;doi:10.1038/d41586-025-03664-7&lt;/a&gt;&lt;/p&gt;The repository is taking steps to tackle a surge in low quality, AI-generated content.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03664-7</guid>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A host of ‘exocomets’ swarms a distant star</title>
-      <link>https://www.nature.com/articles/d41586-025-03518-2</link>
-      <description>&lt;p&gt;Nature, Published online: 07 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03518-2"&gt;doi:10.1038/d41586-025-03518-2&lt;/a&gt;&lt;/p&gt;Dimming of the starlight from RZ Piscium reveals that 24 unseen bodies are whizzing around the star.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03518-2</guid>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surprise ‘tail’ found on an iconic galaxy may rewrite its history</title>
-      <link>https://www.nature.com/articles/d41586-025-03665-6</link>
-      <description>&lt;p&gt;Nature, Published online: 07 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03665-6"&gt;doi:10.1038/d41586-025-03665-6&lt;/a&gt;&lt;/p&gt;First image from Vera C. Rubin telescope reveals a previously unnoticed feature of galaxy M61 that may explain its mysterious properties.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03665-6</guid>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DNA pioneer James Watson has died ― colleagues wrestle with his legacy</title>
-      <link>https://www.nature.com/articles/d41586-025-03380-2</link>
-      <description>&lt;p&gt;Nature, Published online: 08 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03380-2"&gt;doi:10.1038/d41586-025-03380-2&lt;/a&gt;&lt;/p&gt;The co-discoverer of the structure of DNA helped to strengthen a US research institute and wrote a classic textbook, but also earned a reputation for racist and sexist comments.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03380-2</guid>
-      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vaccine advice based on science: US centre fills gaps in public-health information</title>
-      <link>https://www.nature.com/articles/d41586-025-03625-0</link>
-      <description>&lt;p&gt;Nature, Published online: 10 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03625-0"&gt;doi:10.1038/d41586-025-03625-0&lt;/a&gt;&lt;/p&gt;Epidemiologist Michael Osterholm talks about efforts by the Center for Infectious Disease Research and Policy to inform vaccine recommendations and maintain public-health awareness during the Trump administration.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03625-0</guid>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Don’t despair, collective action can address climate change</title>
-      <link>https://www.nature.com/articles/d41586-025-03634-z</link>
-      <description>&lt;p&gt;Nature, Published online: 10 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03634-z"&gt;doi:10.1038/d41586-025-03634-z&lt;/a&gt;&lt;/p&gt;Even small acts can make a big difference in driving positive environmental impacts.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03634-z</guid>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rebuilding Ukraine — one university’s bold vision</title>
-      <link>https://www.nature.com/articles/d41586-025-03638-9</link>
-      <description>&lt;p&gt;Nature, Published online: 10 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03638-9"&gt;doi:10.1038/d41586-025-03638-9&lt;/a&gt;&lt;/p&gt;Rector and AI researcher Nataliya Shakhovska tells Nature how her institution is supporting students and staff members amid the war and about her hopes for the future.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03638-9</guid>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hamilton Smith obituary: molecular biologist who co-discovered precise molecular scissors for cutting DNA</title>
-      <link>https://www.nature.com/articles/d41586-025-03635-y</link>
-      <description>&lt;p&gt;Nature, Published online: 10 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03635-y"&gt;doi:10.1038/d41586-025-03635-y&lt;/a&gt;&lt;/p&gt;Nobel laureate who helped to sequence the first bacterial and human genomes.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03635-y</guid>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Africa finally has its own drug-regulation agency — and it could transform the continent’s health</title>
-      <link>https://www.nature.com/articles/d41586-025-03637-w</link>
-      <description>&lt;p&gt;Nature, Published online: 10 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03637-w"&gt;doi:10.1038/d41586-025-03637-w&lt;/a&gt;&lt;/p&gt;If it gets things right, the first major regulator of medicines to launch for 30 years could empower Africa to tackle African challenges around health and disease.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03637-w</guid>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Want a younger brain? Learn another language</title>
-      <link>https://www.nature.com/articles/d41586-025-03677-2</link>
-      <description>&lt;p&gt;Nature, Published online: 10 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03677-2"&gt;doi:10.1038/d41586-025-03677-2&lt;/a&gt;&lt;/p&gt;A vast study suggests that being multilingual can slow down cognitive ageing.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03677-2</guid>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Witnessing chamois populations recover</title>
-      <link>https://www.nature.com/articles/d41586-025-03640-1</link>
-      <description>&lt;p&gt;Nature, Published online: 10 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03640-1"&gt;doi:10.1038/d41586-025-03640-1&lt;/a&gt;&lt;/p&gt;Haritakis Papaioannou combines a mountaineer’s know-how with a scientific eye to track the slow recovery of chamois populations in western Greece.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03640-1</guid>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flexible perovskite/silicon tandem solar cell with a dual buffer layer</title>
-      <link>https://www.nature.com/articles/s41586-025-09835-w</link>
-      <description>&lt;p&gt;Nature, Published online: 10 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09835-w"&gt;doi:10.1038/s41586-025-09835-w&lt;/a&gt;&lt;/p&gt;Flexible perovskite/silicon tandem solar cell with a dual buffer layer</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09835-w</guid>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Publisher Correction: Radiation-induced amphiregulin drives tumour metastasis</title>
-      <link>https://www.nature.com/articles/s41586-025-09862-7</link>
-      <description>&lt;p&gt;Nature, Published online: 10 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09862-7"&gt;doi:10.1038/s41586-025-09862-7&lt;/a&gt;&lt;/p&gt;Publisher Correction: Radiation-induced amphiregulin drives tumour metastasis</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09862-7</guid>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>A fault-tolerant neutral-atom architecture for universal quantum computation</title>
-      <link>https://www.nature.com/articles/s41586-025-09848-5</link>
-      <description>&lt;p&gt;Nature, Published online: 10 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09848-5"&gt;doi:10.1038/s41586-025-09848-5&lt;/a&gt;&lt;/p&gt;A fault-tolerant neutral-atom architecture for universal quantum computation</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09848-5</guid>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flexible perovskite/silicon tandem solar cells with 33.6% efficiency</title>
-      <link>https://www.nature.com/articles/s41586-025-09849-4</link>
-      <description>&lt;p&gt;Nature, Published online: 10 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09849-4"&gt;doi:10.1038/s41586-025-09849-4&lt;/a&gt;&lt;/p&gt;Flexible perovskite/silicon tandem solar cells with 33.6% efficiency</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09849-4</guid>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Author Correction: The oldest known lepidosaur and origins of lepidosaur feeding adaptations</title>
-      <link>https://www.nature.com/articles/s41586-025-09782-6</link>
-      <description>&lt;p&gt;Nature, Published online: 10 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09782-6"&gt;doi:10.1038/s41586-025-09782-6&lt;/a&gt;&lt;/p&gt;Author Correction: The oldest known lepidosaur and origins of lepidosaur feeding adaptations</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09782-6</guid>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>How genetically encoded sensors have lit up neuroscience</title>
-      <link>https://www.nature.com/articles/d41586-025-03639-8</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03639-8"&gt;doi:10.1038/d41586-025-03639-8&lt;/a&gt;&lt;/p&gt;Tools that track specific molecules in neurons have enabled researchers to probe previously unexplored aspects of neurobiology — although important caveats remain.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03639-8</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ethically sourced image data set encourages fairness in AI research</title>
-      <link>https://www.nature.com/articles/d41586-025-03643-y</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03643-y"&gt;doi:10.1038/d41586-025-03643-y&lt;/a&gt;&lt;/p&gt;AI systems rely on data that often lack diversity, perpetuate biases and violate intellectual-property rights. An ethical human-image data set addresses these problems.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03643-y</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>‘Almost utopian’: how protecting the environment is boosting the economy in Brazil</title>
-      <link>https://www.nature.com/articles/d41586-025-03631-2</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03631-2"&gt;doi:10.1038/d41586-025-03631-2&lt;/a&gt;&lt;/p&gt;This bold approach could galvanize countries attending the COP30 summit.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03631-2</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>China’s new scientist visa is a ‘serious bid’ for the world’s top talent</title>
-      <link>https://www.nature.com/articles/d41586-025-03657-6</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03657-6"&gt;doi:10.1038/d41586-025-03657-6&lt;/a&gt;&lt;/p&gt;The country is easing migration for young researchers to boost its competitiveness in artificial intelligence, robotics and new materials.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03657-6</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>I have Einstein, Bohr and Feynman in my pocket</title>
-      <link>https://www.nature.com/articles/d41586-025-03468-9</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03468-9"&gt;doi:10.1038/d41586-025-03468-9&lt;/a&gt;&lt;/p&gt;Grappling with difficulties in your career? Try asking an AI-powered advisory panel of experts, suggests Carsten Lund Pedersen.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03468-9</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The computers that run on human brain cells</title>
-      <link>https://www.nature.com/articles/d41586-025-03633-0</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03633-0"&gt;doi:10.1038/d41586-025-03633-0&lt;/a&gt;&lt;/p&gt;Move over silicon: scientists want to use neurons to make powerful computers with minuscule energy needs.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03633-0</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lessons from a long road to a first-author paper</title>
-      <link>https://www.nature.com/articles/d41586-025-03348-2</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03348-2"&gt;doi:10.1038/d41586-025-03348-2&lt;/a&gt;&lt;/p&gt;Unlike my colleagues, I faced a five-year wait to publish my PhD project. Here’s how I coped.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03348-2</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>For real climate action, empower women</title>
-      <link>https://www.nature.com/articles/d41586-025-03630-3</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03630-3"&gt;doi:10.1038/d41586-025-03630-3&lt;/a&gt;&lt;/p&gt;In Belize, women are tackling climate change and biodiversity loss on the ground, but gender equity is needed in government, too — COP30 should address this.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03630-3</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is HRT in menopause healthy? US label change triggers debate</title>
-      <link>https://www.nature.com/articles/d41586-025-03687-0</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03687-0"&gt;doi:10.1038/d41586-025-03687-0&lt;/a&gt;&lt;/p&gt;The US FDA is removing serious health warnings from hormone replacement therapies. Scientists worry that more work is needed to get the message right.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03687-0</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Failure is not an option for Africa’s newly launched medicines agency</title>
-      <link>https://www.nature.com/articles/d41586-025-03668-3</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03668-3"&gt;doi:10.1038/d41586-025-03668-3&lt;/a&gt;&lt;/p&gt;The inequitable distribution of vaccines during the COVID-19 pandemic was the final proof of the need for more home-grown manufacturing and regulatory capacity across Africa.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03668-3</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Be rational: chimp decision-making is guided by the strongest evidence</title>
-      <link>https://www.nature.com/articles/d41586-025-03584-6</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03584-6"&gt;doi:10.1038/d41586-025-03584-6&lt;/a&gt;&lt;/p&gt;The ability to change your mind in response to better evidence is a hallmark of human cognition. Experiments now show that chimps are capable of rational thought too.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03584-6</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Academic freedom is key to the future of universities</title>
-      <link>https://www.nature.com/articles/d41586-025-03683-4</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03683-4"&gt;doi:10.1038/d41586-025-03683-4&lt;/a&gt;&lt;/p&gt;Academic freedom is key to the future of universities</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03683-4</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kenya’s black rhino revival is a story of hope for conservationists</title>
-      <link>https://www.nature.com/articles/d41586-025-03685-2</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03685-2"&gt;doi:10.1038/d41586-025-03685-2&lt;/a&gt;&lt;/p&gt;Kenya’s black rhino revival is a story of hope for conservationists</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03685-2</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Insatiable squirrel ravages cherry blossoms for breakfast</title>
-      <link>https://www.nature.com/articles/d41586-025-03456-z</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03456-z"&gt;doi:10.1038/d41586-025-03456-z&lt;/a&gt;&lt;/p&gt;A mischievous red squirrel wreaks havoc on a woodland in search of snacks, and a record of life blooming on the volcanic island of Surtsey, in our weekly dip in Nature’s archives.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03456-z</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>COP meetings must evolve to turn climate promises into action</title>
-      <link>https://www.nature.com/articles/d41586-025-03682-5</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03682-5"&gt;doi:10.1038/d41586-025-03682-5&lt;/a&gt;&lt;/p&gt;COP meetings must evolve to turn climate promises into action</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03682-5</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Partnerships between academia and industry must serve the public good</title>
-      <link>https://www.nature.com/articles/d41586-025-03684-3</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/d41586-025-03684-3"&gt;doi:10.1038/d41586-025-03684-3&lt;/a&gt;&lt;/p&gt;Partnerships between academia and industry must serve the public good</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/d41586-025-03684-3</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>High performance tandem perovskite LEDs through interlayer photon recycling</title>
-      <link>https://www.nature.com/articles/s41586-025-09865-4</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09865-4"&gt;doi:10.1038/s41586-025-09865-4&lt;/a&gt;&lt;/p&gt;High performance tandem perovskite LEDs through interlayer photon recycling</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09865-4</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comprehensive echocardiogram evaluation with view primed vision language AI</title>
-      <link>https://www.nature.com/articles/s41586-025-09850-x</link>
-      <description>&lt;p&gt;Nature, Published online: 11 November 2025; &lt;a href="https://www.nature.com/articles/s41586-025-09850-x"&gt;doi:10.1038/s41586-025-09850-x&lt;/a&gt;&lt;/p&gt;Comprehensive echocardiogram evaluation with view primed vision language AI</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41586-025-09850-x</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <title>Unlocking the potential of X-rays to scale up tissue ultrastructure mapping</title>
+      <link>https://www.nature.com/articles/s41592-025-02892-z</link>
+      <description>&lt;p&gt;Nature Methods, Published online: 04 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02892-z"&gt;doi:10.1038/s41592-025-02892-z&lt;/a&gt;&lt;/p&gt;Nondestructively mapping biological tissues in 3D with nanoscale detail is essential to scale up the study of how cells interact in their environment, such as in neuronal circuits. We resolved such ultrastructure in brain tissue using coherent X-ray phase-contrast imaging techniques, which extends the volume imaging toolbox with nondestructive approaches.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02892-z</guid>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
