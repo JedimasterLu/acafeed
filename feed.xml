@@ -7,7 +7,786 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Dec 2025 18:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 18:10:53 +0000</lastBuildDate>
+    <item>
+      <title>Sensitive detection of structural dynamics using a statistical framework for comparative crystallography | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adj2921</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Chemical and conformational changes are crucial to protein function and its pharmacological control. X-ray crystallography can reveal these changes in atomic detail, but standard analysis methods, which refine separate datasets, often overlook differences that are subtle or arise in only a subset of molecules. Direct comparison of crystallographic datasets is, in principle, more powerful, but systematic errors (“scales”) often mask changes in the crystallographic observables (“structure factors”). Machine learning algorithms that jointly estimate scales and structure factors can address this limitation. Here, we augment this approach with multivariate, structured priors derived from crystallographic theory, implemented in the variational deep learning framework Careless. Doing so strongly improves the detection of protein dynamics, element-specific anomalous signals, and the binding of drug candidates, offering a robust approach to comparative crystallography and, potentially, to detection of protein dynamics by other structure determination methods.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adj2921</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>State-dependent modulation of spiny projection neurons controls levodopa-induced dyskinesia in a mouse model of Parkinson’s disease | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adv8224</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    In the later stages of Parkinson’s disease, patients often manifest levodopa-induced dyskinesia (LID), compromising their quality of life. The pathophysiology underlying LID is poorly understood, and treatment options are limited. To move toward filling this treatment gap, the intrinsic and synaptic changes in striatal spiny projection neurons (SPNs) triggered by the sustained elevation of dopamine (DA) during dyskinesia were characterized using electrophysiological, pharmacological, molecular, and behavioral approaches. Our studies revealed that the intrinsic excitability and functional corticostriatal connectivity of SPNs in dyskinetic mice oscillate between LID on- and off-states in a cell- and state-specific manner. Although triggered by levodopa, these oscillations in SPN properties depended on both dopaminergic and cholinergic signaling. Disrupting M1 muscarinic receptor signaling specifically in indirect pathway SPNs or deleting its downstream signaling partner CalDAG-GEFI blunted the levodopa-induced alterations in functional connectivity, enhanced the motoric benefits of levodopa, and attenuated LID severity.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adv8224</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VTA dopaminergic neuronal activity during NREM sleep is modulated by learning and facilitates motor memory consolidation | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adw7427</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Memory consolidation enables animals to draw on past experiences to guide future behavior. This process involves system- and synaptic-level changes and predominantly occurs during sleep. While hippocampal-cortical circuits are well studied in this context, the contributions of other systems, including dopaminergic circuits—key players in learning-related processes—remain poorly understood. Ventral tegmental area dopaminergic (VTA
+    &lt;sup&gt;
+     DA
+    &lt;/sup&gt;
+    ) neurons are active during sleep and suggested to participate in memory consolidation processes; however, causal evidence for this is lacking. Using calcium-dependent fiber photometry, electrophysiology, and chemogenetic and optogenetic manipulations across learning paradigms, we explore the functions of VTA
+    &lt;sup&gt;
+     DA
+    &lt;/sup&gt;
+    neuronal activity during sleep. We show that VTA
+    &lt;sup&gt;
+     DA
+    &lt;/sup&gt;
+    activity during nonrapid eye movement sleep is experience dependent, is enhanced by motor skill and associative learning, facilitates motor skill memory consolidation, and exhibits a motor learning–dependent increase in temporal coordination with cortical spindle oscillations. Our findings uncover a previously unidentified function for VTA
+    &lt;sup&gt;
+     DA
+    &lt;/sup&gt;
+    neurons in consolidating memories during sleep, advancing understanding of this central neuromodulator’s functions in regulating fundamental biological processes.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adw7427</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>B cell–reactive neoantigens boost antitumor immunity | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adx8303</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    B cell involvement in neoantigen-driven antitumor immunity remains largely unexplored because of challenges in predicting B cell responses. Here, we developed a method to identify B cell epitopes by characterizing &amp;gt;437,000 peptides tested for IgG binding and &amp;gt;370 million B cell receptor (BCR) clones. Our single-cell BCR sequencing of pre– and post–severe acute respiratory syndrome coronavirus 2 vaccination validates the performance of this method. Mouse vaccination experiments demonstrate that B cell neoepitopes enhance immune responses, driving BCR expansion and tumor regression. Genomic analysis of &amp;gt;8000 The Cancer Genome Atlas (TCGA) samples reveals an inverse correlation between predicted B cell reactivity and mutation allele frequencies, indicating B cell–mediated neoantigen elimination. Applying our multiomics model to checkpoint blockade responses in 2074 patients highlights the clinical relevance of B cell neoepitope prediction. A meta-analysis of 11 personalized vaccine trials involving 1739 neoantigens suggests that incorporating B cell neoepitopes may improve vaccination efficacy. These results underscore the significance of B cell–reactive neoantigens in antitumor immunity.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adx8303</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proteome-wide computational analyses reveal links between protein condensate formation and RNA biology | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.ady1420</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Biomolecular condensates mediate dynamic compartmentalization of cellular processes. The multivalent interactions that underlie biomolecular condensation are often promoted by intrinsically disordered regions (IDRs) within proteins. Although the role of IDRs in biomolecular condensates is well appreciated, predicting whether an IDR forms condensates in cells remains challenging. Here, we developed a machine learning model to accurately predict the condensation behavior of IDRs, analyzing 215 IDRs from fusion oncoproteins in human embryonic kidney (HEK) 293T cells. We identified distinct sequence-derived physicochemical features associated with condensation. Leveraging these data, our model predicts that ~12% of the ~13,000 IDRs in the human proteome are likely to form cellular condensates, establishing a robust framework for proteome-wide analysis of IDR-mediated biomolecular condensation. Notably, proteins with condensate-forming IDRs are significantly enriched in RNA processing and splicing functions and are predominantly localized to membraneless organelles, highlighting a central role of IDR-mediated biomolecular condensation in cellular organization and RNA biology.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.ady1420</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Drosophila and mouse intestinal stem cells are spatiotemporally specified by Notch suppression and Wnt activation | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.ady7272</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    The specification of intestinal stem cells (ISCs) during development is critical for maintaining intestinal homeostasis. However, the mechanisms underlying this process remain elusive. Here, by counting and tracing ISC in
+    &lt;i&gt;
+     Drosophila
+    &lt;/i&gt;
+    pupal midgut, we show that ISCs are specified within a narrow 12-hour developmental window, with ~150 ISCs emerging from a pool of ~6000 intestinal epithelial cells. Single-cell sequencing revealed the involvement of Notch and Wnt signaling, with genetic experiments demonstrating that ISC specification requires both Notch suppression and Wnt activation. Furthermore, we showed that Wnt signaling is activated in discrete spatial domains, and Notch-mediated lateral inhibition specifies ISCs in these Wnt-active zones, achieving a ratio of ~1/40. Notably, Notch suppression also promoted the specification of Lgr5
+    &lt;sup&gt;
+     +
+    &lt;/sup&gt;
+    progenitors in the mouse embryonic intestine. Together, our data show that Wnt activation defines niches permissive for ISC fate, whereas Notch suppression licenses fate commitment, a spatiotemporal coordination conserved from insects to mammals.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.ady7272</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>An ultrasmall theranostic nanozyme for abdominal aortic aneurysm management and therapeutic efficacy monitoring | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adz3713</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Abdominal aortic aneurysm (AAA) is a life-threatening condition lacking effective drug interventions, and its progression is difficult to predict, complicating early clinical management. Here, we present a reactive oxygen species–responsive theranostic nanozyme for AAA early intervention and efficacy monitoring, establishing a feedback loop between treatment and diagnostics. OZn, designed by encapsulating ultrasmall Prussian blue (SPBZn) within oxidation-sensitive dextran, targets aneurysm sites, where it responds to inflammatory microenvironments by releasing SPBZn. In vivo, SPBZn not only mitigated CaCl
+    &lt;sub&gt;
+     2
+    &lt;/sub&gt;
+    -induced aneurysm expansion and AAA progression in rat models but also enabled noninvasive diagnostic monitoring via urinalysis due to its enzymatic activities and renal metabolism. This theranostic nanozyme dynamically regulated therapeutic efficacy and provided feedback on disease progression. By preventing vascular rupture through early intervention and enabling precise drug administration, this work highlights a transformative strategy for integrating diagnostics and therapy to improve AAA management and clinical outcomes.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz3713</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Asymmetric synthesis of chiral boronic esters featuring nonadjacent axial and flexible, acyclic central chirality | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adz8755</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Nonadjacent chirality is prevalent in pharmaceuticals and bioactive molecules, but prior studies primarily focused on constructing noncontiguous stereocenters. However, the construction of nonadjacent axial and flexible, acyclic central chirality often involves highly flexible transition states, posing challenges in achieving precise control over enantio- and diastereoselectivity. Here, extensive ligand screening, followed by structural modification and optimization, identified a bulky
+    &lt;i&gt;
+     P
+    &lt;/i&gt;
+    ,
+    &lt;i&gt;
+     N
+    &lt;/i&gt;
+    -phosphinooxazoline (
+    &lt;i&gt;
+     P
+    &lt;/i&gt;
+    ,
+    &lt;i&gt;
+     N
+    &lt;/i&gt;
+    -phox) ligand derived from
+    &lt;span&gt;
+     l
+    &lt;/span&gt;
+    -serine, enabling the direct asymmetric construction of atropisomers with axial and flexible, acyclic central chirality. The reaction demonstrates broad substrate scope, accommodating diverse aryl, alkyl, and natural product–derived boronic esters, and tolerates aryl trifluoromethanesulfonates (ArOTfs) with varying electronic and steric properties. Mechanistic studies indicate a palladium(II) intermediate, with 1,2-carbon migration as the rate-determining step. Furthermore, product derivatization introduces diverse functional groups, enhancing molecular complexity and facilitating downstream transformations.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz8755</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>VAPB is a negative regulator of STING-mediated innate immune signaling | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.aea3996</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Stimulator of IFN genes (STING) is an endoplasmic reticulum (ER) signaling receptor involved in the type I interferon response to pathogen- or self-derived cytosolic double-stranded DNA. Excessive activation of STING is associated with many diseases, but the regulatory mechanism of STING activation remains to be further elucidated. Here, we identify VAPB as a negative regulator of STING-mediated innate immune response. VAPB deficiency increases the expression of type I interferons under resting conditions or upon stimulation. Mechanistically, VAPB associates and translocates with STING, thereby regulating STING translocation, oligomerization, and recruitment of TBK1. In vivo, deficiency of VAPB enhances the expression of type I interferons and prevents lethality following HSV-1 infection. Furthermore, VAPB P56S, a pathogenic mutation causing amyotrophic lateral sclerosis (ALS), can promote STING-mediated innate immune response under resting conditions, which might contribute to further understanding of the relationship between cGAS-STING pathway and ALS. Our study identifies VAPB as a critical regulating factor in cGAS-STING–mediated innate immune responses.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea3996</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Centrin-POC5 inner scaffold provides distal centriole integrity for sperm flagellar assembly | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.aea4045</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Centrioles undergo marked transformations during spermatogenesis that are essential for sperm motility and male fertility. Despite their importance, the molecular mechanisms and ultrastructural dynamics underlying these transformations remain largely unknown. Here, we apply ultrastructure expansion microscopy and reveal previously unrecognized centriolar architectural changes in mouse male germ cells, including geometry switching between the two centrioles and stage-specific removal of distal tip proteins such as centrin and SFI1. We further identify the centrin-POC5 inner scaffold as a key structure selectively augmented at the distal centriole, which directly forms and anchors the flagellum. Functional analyses of
+    &lt;i&gt;
+     Poc5
+    &lt;/i&gt;
+    knockout mice demonstrate that this inner scaffold is essential for distal centriole integrity and flagellar assembly in spermatids but dispensable in somatic cells and spermatocytes. Our findings provide a spatiotemporal molecular atlas of centriole remodeling during spermatogenesis and uncover the critical physiological role of the centriolar centrin-POC5 inner scaffold in mammalian reproduction.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea4045</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum-inspired computational wavefront shaping enables turbulence-resilient distributed aperture synthesis imaging | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.aea4152</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Wavefront shaping is essential for optical imaging through aberrations, but conventional methods rely on physical modulators and iterative optimization, hindering real-time applications in dynamic environments like turbulence. Inspired by quantum nonlocal aberration cancellation, we propose a modulator-free, computational wavefront shaping technique. By leveraging classical correlated illumination and single-pixel detection, our method corrects aberrations via virtual phase modulation in the computational domain, eliminating physical spatial light modulators or array sensors. As validation, we demonstrate this approach in a distributed optical aperture synthesis imaging, where a phase-randomized laser array illuminates objects through turbulence. Despite unknown subsource phase mismatch and turbulent distortion, we reconstruct diffraction-limited images of a 3-meter standoff object, at the theoretical resolution limit of the synthetic aperture (0.157 millimeter experimentally; 97% of the 0.152-millimeter limit). This work transforms traditionally intractable hardware challenges into computationally solvable problems, enabling turbulence-resilient standoff imaging without adaptive optics.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea4152</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Virus-induced APOBEC3 transmutagenesis in bladder cancer initiation | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.aea6124</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Carcinogenesis in human urothelium is driven by a high burden of mutations caused by the antiviral “APOBEC3” (apolipoprotein B mRNA editing enzyme, catalytic subunit–like 3) cytosine deaminase enzymes; however, there is no established viral etiology. BK polyomavirus (BKPyV) is a ubiquitous childhood infection that persists in the kidney during adulthood and is frequently detected in urine. Chronic BKPyV infections of normal human urothelium induced an innate response, including apical extrusion of infected cells. Local paracrine interferon signaling induced APOBEC3 expression in both infected and juxtaposed bystander cells, leading to acquisition of hallmark APOBEC3-mediated mutational signatures that recapitulated the variation in mutational character found in patients with muscle-invasive bladder cancer. In our model for urothelial carcinogenesis, uninfected bystander cells witnessing BKPyV infection become APOBEC3 damaged, escape extrusion, and acquire hypermutable advantage. “Transmutagenesis” explains how cells proximal to infected neighbors acquire cancer-initiating mutations. This hypothesis for how urothelial cancers can develop as APOBEC3 signature rich, while remaining virus-negative, suggests that a large proportion of urothelial carcinomas may be preventable by antiviral intervention.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea6124</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Achieving cysteine-selective peptide/protein bioconjugation via tunable triazine-pyridine chemistry | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.aea6904</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    The development of cysteine (Cys)–selective bioconjugation reagents with enhanced stability remains a critical challenge for therapeutic applications such as antibody-drug conjugates (ADCs). Leveraging the modular 1,3,5-triazine scaffold, we report the design and optimization of triazine-pyridinium chemistry (TPC) reagents for selective Cys labeling. Through systematic structural modifications and computational studies, we identified reagent
+    &lt;b&gt;
+     9b
+    &lt;/b&gt;
+    , featuring a
+    &lt;i&gt;
+     para
+    &lt;/i&gt;
+    -
+    &lt;i&gt;
+     N
+    &lt;/i&gt;
+    ,
+    &lt;i&gt;
+     N
+    &lt;/i&gt;
+    -dimethylaminopyridinium leaving group and ethoxy substitution, as the most efficient and selective candidate for selective protein labeling.
+    &lt;b&gt;
+     9b
+    &lt;/b&gt;
+    demonstrated near-quantitative Cys labeling (&amp;gt;95% yield) under physiological conditions (pH 7.4) while suppressing tyrosine reactivity, a limitation of earlier TPC probes. The reagent demonstrated excellent compatibility with various peptides and proteins, including therapeutic antibodies like trastuzumab, showcasing its potential for constructing ADCs. The optimized labeling ensured robust stability of the conjugates in biological environments, highlighting the practical applicability of this methodology. Our findings underscore the promise of triazine-pyridinium chemistry in developing stable, site-specific bioconjugates for targeted therapeutic applications.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea6904</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rbfox2 selectively governs hematopoietic stem cell self-renewal by regulating proteostasis | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.aea7451</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Self-renewing hematopoietic stem cells (HSCs) generate all blood cells and give rise to long-term reconstitution of the hematopoietic system after transplantation, but the molecular mechanisms that specifically regulate HSCs remain poorly defined. Here, we found that HSCs displayed a distinct messenger RNA alternative splicing pattern and preferentially expressed
+    &lt;i&gt;
+     Rbfox2
+    &lt;/i&gt;
+    , an alternative splicing regulator, compared with multipotent progenitors (MPPs). Deletion of
+    &lt;i&gt;
+     Rbfox2
+    &lt;/i&gt;
+    from the hematopoietic compartment specifically depleted HSCs, but not progenitors in the adult bone marrow.
+    &lt;i&gt;
+     Rbfox1
+    &lt;/i&gt;
+    did not function redundantly with
+    &lt;i&gt;
+     Rbfox2
+    &lt;/i&gt;
+    in HSCs. Mechanistically,
+    &lt;i&gt;
+     Rbfox2
+    &lt;/i&gt;
+    loss led to proteostasis stress, including increased protein synthesis rate and accumulated misfolded/unfolded protein contents, in HSCs, but not in progenitors. Small molecules that restore proteostasis rescued HSC defects in
+    &lt;i&gt;
+     Rbfox2
+    &lt;/i&gt;
+    -deficient mice. Our work thus reveals that HSCs, but not progenitors, selectively rely on
+    &lt;i&gt;
+     Rbfox2
+    &lt;/i&gt;
+    for their self-renewal and maintenance.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea7451</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Targeting multiple genetic defects of mitochondrial diseases with a single bacterial lipoate protein ligase | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.aea8481</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Metabolic disorders caused by defects in energy metabolism can lead to many life-threatening diseases; their therapy remains elusive in most cases. Conventional gene therapy relies on the “one gene for one genetic defect” strategy. Here, we demonstrate a more efficient strategy to target multiple genetic defects with a single gene intervention. Specifically, we used a bacterial lipoate protein ligase involved in protein lipoylation to rescue mitochondrial dysfunctions in human lipoylation pathway (
+    &lt;i&gt;
+     LIPT2
+    &lt;/i&gt;
+    ,
+    &lt;i&gt;
+     LIAS
+    &lt;/i&gt;
+    , and
+    &lt;i&gt;
+     LIPT1
+    &lt;/i&gt;
+    ), lipoyl precursor supply (
+    &lt;i&gt;
+     MECR
+    &lt;/i&gt;
+    ), and sulfur insertion accessary partner (
+    &lt;i&gt;
+     FDX1
+    &lt;/i&gt;
+    ). The efficacy and safety of
+    &lt;i&gt;
+     Escherichia coli
+    &lt;/i&gt;
+    –derived LplA or
+    &lt;i&gt;
+     Bacillus subtilis
+    &lt;/i&gt;
+    –derived LplJ were validated in human cells and mouse models.
+    &lt;i&gt;
+     LplA
+    &lt;/i&gt;
+    knock-in mice exhibited normal health with enhanced energy expenditure. Overexpressing LplA through a mating strategy rescued embryonic lethality in
+    &lt;i&gt;
+     Lipt1
+    &lt;/i&gt;
+    &lt;sup&gt;
+     −/−
+    &lt;/sup&gt;
+    mutants, yielding viable offspring with normal body weight, energy expenditure, tissue morphology, and biochemical profile. Our work highlights how evolutionary differences in biosynthetic pathways between humans and bacteria can be leveraged for cross-species therapeutic innovations.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea8481</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Programmable multistep CRISPR gene activation via control of RNA polymerase III termination | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adt1532</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Although genomes encode instructions for mammalian cell differentiation with rich syntactic relationships, existing methods for genetically programming cells have only modest capabilities for stepwise gene regulation. Here, we develop a sequential genetic system that transcriptionally activates endogenous genes in a preprogrammed, stepwise manner. This system uses the removal of an RNA polymerase III termination sequence to trigger both the transcriptional activation and DNA endonuclease activities of a Cas9-VPR protein, driving progression through a cascade of gene activation events. The system’s functionality in human cells, including iPSCs, enables the development of a path for cellular programming by controlling the sequential order of gene activation to influence cellular states.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adt1532</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conservation of mRNA operon formation in control of the heat shock response in mammalian cells | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adu0315</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Prokaryotes use polycistronic transcription (operons) to express multiple messenger RNAs (mRNAs) from a single promoter to coexpress functionally related genes. However, how do eukaryotes, which express monocistronic messages, achieve the same regulation? Previously, we demonstrated that yeast uses RNA operons, i.e., mRNAs assembled in trans (transperons), to control multiple cellular pathways such as the heat shock response (HSR). As the HSR is conserved from yeast to mammals, we used single-molecule RNA labeling and pulldown techniques to demonstrate that mammalian heat shock protein (HSP) mRNAs also form operons upon transcription during heat stress. HSP RNA operon formation is dependent on the heat shock factor 1 transcription factor and intra- and interchromosomal interactions between the HSP genes. Work in yeast identified a conserved RNA sequence motif and histone H4 functions that act downstream thereof to regulate transperon assembly. Our work highlights the evolutionarily conserved regulation of the HSR and for RNA operons in eukaryotic gene regulation.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adu0315</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EphB1-NR2B receptor signaling in glutamatergic neurons of the ventroposteromedial thalamic nucleus regulates emergence from anesthesia | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adw7972</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Understanding the brain’s intrinsic mechanisms that drive the emergence of consciousness from anesthesia remains a substantial and unresolved challenge in brain research. Here, we show in mice that, when the brain is forced into a minimal responsive state by an anesthetic, a rapid activation of EphB1 receptor occurs in the ventral posteromedial nucleus (VPM) of the thalamus and contributes to promote the emergence of consciousness by activating the VPM glutamatergic neuron (VPM
+    &lt;sup&gt;
+     Glu
+    &lt;/sup&gt;
+    ) → primary somatosensory cortex glutamatergic neuron pathway. The ephrinB-EphB1 receptor signaling excites VPM
+    &lt;sup&gt;
+     Glu
+    &lt;/sup&gt;
+    neurons through phosphorylation of NR2B, a subunit of N-methyl-D-aspartate receptors (NMDARs), at tyrosine-1472 (Y1472) and disinhibits VPM
+    &lt;sup&gt;
+     Glu
+    &lt;/sup&gt;
+    neurons through ubiquitin degradation of potassium-chloride co-transporter 2 (KCC2). The EphB1/NR2B Y1472 phosphorylation and EphB1/KCC2 ubiquitin degradation are two independent mechanisms in the process of emergence from anesthesia and occur independent of the molecular targets of anesthesia. The present study provides insights into understanding the molecular and neural circuit basis that allows the brain to emerge from anesthesia and regain consciousness.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adw7972</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mitochondria-localized photocatalyst of biomimetic organic semiconductor nanoparticles for NIR-activatable photocatalytic immunotherapy | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adx4850</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Photocatalytic therapy holds great prospects in high-performance tumor treatment owing to its advantages of noninvasiveness and oxygen nonreliance. However, there is still a lack of ideal photocatalyst materials that respond to near-infrared (NIR) light, especially with organelle-specific features. Here, a mitochondria-biomimetic organic semiconductor photocatalyst was designed for NIR-activatable photocatalytic immunotherapy of recurrent and metastatic tumor. With biomimetic of mitochondrial membrane, a NIR-responsive conjugated polymer YBSe-SS was prepared into biomimetic nano-photocatalysts (Mito-NPs). Upon NIR-light irradiation, the Mito-NPs achieved effective photocatalytic oxidation of reduced nicotinamide adenine dinucleotide and mitochondria dysfunction, benefiting from the mitochondria-targeted performance. Also, relatively high multiphototheranostics were demonstrated by the Mito-NPs. Subsequently, with Mito-NP–regulated mitochondrial function and metabolism, the in vivo experiments proved that the photocatalytic Mito-NPs combined with immune checkpoint therapy achieved photocatalytic immunotherapy for suppressing primary and pulmonary metastasis of osteosarcoma. This work offers a practical paradigm for NIR-activatable organic photocatalytic materials for high-performance tumor therapy.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adx4850</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shifting cyclone travel speed and its impact on global mangrove ecosystems | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adx6799</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Cyclones cause major damage to mangrove ecosystems globally. While this damage is projected to increase as storms intensify with climate change, the consequences of changes in cyclone attributes other than wind speed remain largely unexplored. Here, we show that shifts in cyclone travel speed may also dramatically alter the risks and mechanisms of damage. By developing an interpretable machine learning model trained with all cyclones recorded worldwide from 2001 to 2021, we find that fast-moving cyclones tend to be especially destructive on steeply sloping coasts, exacerbating physical damage, whereas slow-moving cyclones induce predominantly hydrological damage. Between 1981–2000 and 2001–2020, exposure of global mangrove ecosystems to cyclones increased by 13%, accompanied by substantial changes in cyclone travel speeds, with exposure to slow- and fast-moving cyclones doubling in, respectively, the Caribbean and East Asia. Our results highlight opportunities to integrate regional shifts in cyclone attributes under a changing climate into mangrove management strategies.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adx6799</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Investigating charge accumulation mechanisms in organic materials via slow transient emission spectroscopy | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adx9806</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Long-persistent luminescent (LPL) materials store photon energy as charges and emit light over extended periods via charge recombination. LPL decay typically follows a power law rather than an exponential decay, enabling confirmation of charge accumulation from emission decay characteristics. While charge generation in organic materials has been widely studied at donor-acceptor (D/A) interfaces, it remains underexplored in single-component luminescent materials. Here, we investigate charge generation in organic solids by dispersing a luminescent molecule in various hosts and performing slow transient emission analyses. This approach enables the evaluation of ionization through accumulated triplet excited states and the detection of weak charge accumulation, which are difficult to capture using conventional transient techniques. Our results show that ionization in single-component materials proceeds through resonance-enhanced multiphoton ionization, although it is less efficient than at D/A interfaces. This approach provides insight into long-term photophysical and photochemical processes such as photodegradation.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adx9806</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multidimensional dynamic optical imaging unveils anesthetic-driven hemispheric lateralization in blood-brain barrier homeostasis | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.ady6275</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    The blood-brain barrier (BBB) is commonly known to be distributed evenly within the central nervous system. This study elucidates previously unexplored physiological phenomena associated with the spatial heterogeneity of the BBB. We found that isoflurane facilitates hemispheric lateralization in BBB permeability, leading to different responses between the left and right hemispheres. To substantiate this finding, we used neural optical imaging to comprehensively map the spatial homeostasis of BBB. Image segmentation and feature extraction exhibited hemispheric lateralization in vascular microstructure and function. Gait analysis confirmed that the lateralization of BBB homeostasis influences behavioral functions. Our results indicate that the left hemisphere enhances its self-protective mechanisms by disrupting the balance of mitochondrial fission and fusion, resulting in structural changes in mitochondria and reduced ATP (adenosine 5′-triphosphate) production, which are crucial for maintaining BBB homeostasis. This study offers insights into the molecular pathways that regulate BBB integrity and their potential implications for drug delivery.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.ady6275</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Steric disruption of EGFR oligomerization overcomes therapy resistance in non–small cell lung cancer | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.ady7032</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Acquired drug resistance mutations in epidermal growth factor receptor (EGFR) present a substantial clinical challenge in treating non–small cell lung cancer (NSCLC). While EGFR oligomerization plays a pivotal role in modulating receptor signaling, its relationship with resistance mutations remains unclear. Here, we investigated the real-time link between oligomerization of oncogenic and resistant EGFR mutants and downstream signaling using a fluorescent protein–based proximity probe and signaling reporter in living cells. We found that EGFR mutants resistant to tyrosine kinase inhibitors (TKIs) exhibited higher oligomerization than did wild-type EGFR with or without EGF. The efficacy of TKIs and allosteric drugs inversely correlated with receptor oligomerization. Furthermore, sterically disrupting EGFR oligomerization by genetically fusing a bulky protein to resistant mutants overcame resistance and suppressed proliferation. Moreover, extracellular application of bulky EGFR binders suppressed resistant mutants by disrupting oligomerization. These findings highlight steric disruption of EGFR oligomerization as a promising strategy for overcoming therapy resistance in NSCLC and introduce a versatile screening platform for developing competitive and allosteric inhibitors.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.ady7032</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The past and future of known biodiversity: Rates, patterns, and projections of new species over time | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adz3071</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Our understanding of biodiversity patterns comes primarily from described species. Here, we analyze how known biodiversity has increased across living organisms. Past research suggested that the number of new species per year peaked near 1900 and that only ~2 million species exist. We find that overall rates of species descriptions have recently accelerated, with the largest numbers of new species per year all in the past ~20 years (2000 to 2020). The largest groups grew the most quickly during this period, including animals, arthropods, insects, and beetles. However, long-term trends in rates of species descriptions were often unrelated to recent rates and current richness. For example, rates for fungi have recently increased, whereas rates for insects have not. Extrapolating these rates of species descriptions into the future requires considerable caution. Nevertheless, some intriguing patterns are suggested, such as unexpectedly high projected species numbers of plants, fungi, arachnids, malacostracan crustaceans, ray-finned fishes, and amphibians.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz3071</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scalable metal-organic framework membranes through nonclassical crystallization for molecular separation | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adz5237</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Structurally ordered metal-organic framework (MOF) membranes hold great promise for selective molecular separations in chemical and pharmaceutical industries due to their precise pore size control and strong stability in organic solvents. However, the high surface energy of MOF nanodispersions complicates their assembly, leading to nonselective grain boundaries and poor processability, which hinder practical application. Here, we present a metastable phase crystallization (MPC) strategy that leverages nonclassical crystallization pathways to fabricate MOF membranes with high precision and structural uniformity. This approach combines sol-gel coating with vapor-phase reactions and ligand insertion, enabling the preparation of membranes with finely tunable pore sizes. Al-MOF membranes prepared by MPC exhibit excellent solvent permeance and solute retention, together with enhanced stability under elevated pressures and long-term operation. By tailoring pore sizes through ligand incorporation, molecular separation performance is further improved. A 10-tube tubular MOF membrane module with an effective area of 230 square centimeters highlights the potential scalability of this approach for industrial separations.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz5237</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forced bond ionization–driven design of ultralow lattice thermal conductivity materials for flexible thermoelectrics | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adz7487</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    The search for development strategies that yield low κ
+    &lt;sub&gt;
+     lat
+    &lt;/sub&gt;
+    has become the focus of thermoelectrics and barrier coatings. Here, we propose a “forced bond ionization” strategy by integrating conflicting coordination environments (planar three coordination versus tetrahedral four coordination of Cu) to form pseudo-tetrahedral structures. This approach induces partial ionization of Cu─I bonds in Cu
+    &lt;sub&gt;
+     5
+    &lt;/sub&gt;
+    TeS
+    &lt;sub&gt;
+     3
+    &lt;/sub&gt;
+    I
+    &lt;sub&gt;
+     3
+    &lt;/sub&gt;
+    (CTSI), yielding a record-low κ
+    &lt;sub&gt;
+     lat
+    &lt;/sub&gt;
+    of 0.17 W/(m·K) for dense inorganic polycrystals. The pseudo-tetrahedral configuration triggers shear modes, markedly reducing the transverse speed of sound (ν
+    &lt;sub&gt;
+     T
+    &lt;/sub&gt;
+    = 839 m/s) and amplifying anharmonicity (Grüneisen parameter γ = 2.76). Theoretical analysis reveals that coordination preference competition provides Cu atoms a metastable site, promoting the disordered behavior. The corresponding vibrations of I atoms and disordered Cu atoms dominate the phonon scattering while the material having remarkable flexibility and certain thermoelectric potential. This work establishes a bond ionization–driven design paradigm for ultralow κ
+    &lt;sub&gt;
+     lat
+    &lt;/sub&gt;
+    materials, marking a leap toward potential flexible thermoelectric applications.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz7487</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultraselective sequestration of Li+ and Mg2+ from brines via a reusable polyoxoniobate-based ion sponge | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adz7696</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Lithium (Li) and magnesium (Mg) are designated as critical mineral materials (CMM) due to their essential roles in clean energy technologies. However, extracting high-purity Li
+    &lt;sup&gt;
+     +
+    &lt;/sup&gt;
+    from brine remains a formidable challenge owing to the presence of Mg
+    &lt;sup&gt;
+     2+
+    &lt;/sup&gt;
+    , a physicochemical similar ion that often exists in excess. Here, we introduce a polyoxoniobate-based “Mg-PONb sponge” that enables ultraselective and rapid Li
+    &lt;sup&gt;
+     +
+    &lt;/sup&gt;
+    /Mg
+    &lt;sup&gt;
+     2+
+    &lt;/sup&gt;
+    separation across an exceptionally broad range of Mg/Li ratios (0.02 to 200.63). This framework achieves &amp;gt;99.9% Mg
+    &lt;sup&gt;
+     2+
+    &lt;/sup&gt;
+    removal with negligible Li
+    &lt;sup&gt;
+     +
+    &lt;/sup&gt;
+    loss in under 1 min, yielding Li
+    &lt;sup&gt;
+     +
+    &lt;/sup&gt;
+    /Mg
+    &lt;sup&gt;
+     2+
+    &lt;/sup&gt;
+    selectivity values exceeding 5000. The sponge demonstrates excellent recyclability, maintaining &amp;gt;99% Mg
+    &lt;sup&gt;
+     2+
+    &lt;/sup&gt;
+    rejection and Li
+    &lt;sup&gt;
+     +
+    &lt;/sup&gt;
+    permeability across five regeneration cycles without structural degradation. Mechanistic investigations reveal that selective Mg
+    &lt;sup&gt;
+     2+
+    &lt;/sup&gt;
+    capture originates from strong coordination with terminal oxygens on the PONb cluster, driving rapid formation of porous Mg-PONb frameworks. This work presents a generalizable, scalable strategy for Li
+    &lt;sup&gt;
+     +
+    &lt;/sup&gt;
+    /Mg
+    &lt;sup&gt;
+     2+
+    &lt;/sup&gt;
+    separation and offers a sustainable path toward enhanced Li and Mg recovery from complex brine sources.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz7696</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>T-SCAPE: T cell immunogenicity scoring via cross-domain aided predictive engine | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adz8759</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    T cell immunogenicity, the ability of peptide fragments to elicit T cell responses, is a critical determinant of the safety and efficacy of protein therapeutics and vaccines. While deep learning shows promise for in silico prediction, the scarcity of comprehensive immunogenicity data is a major challenge. We present T cell immunogenicity scoring via cross-domain aided predictive engine (T-SCAPE), a novel multidomain deep learning framework that leverages adversarial domain adaptation to integrate diverse immunologically relevant data sources, including major histocompatibility complex (MHC) presentation, peptide-MHC (pMHC) binding affinity, T cell receptor–pMHC interaction, source organism information, and T cell activation. Validated through rigorous leakage-controlled benchmarks, T-SCAPE demonstrates exceptional performance in predicting T cell activation for specific peptide-MHC pairs. It also accurately predicts the antidrug antibody–inducing potential of therapeutic antibodies without requiring MHC inputs. This success is attributed to T-SCAPE’s biologically grounded and data-driven multidomain pretraining. Its consistent and robust performance highlights its potential to advance the development of safer and more effective vaccines and protein therapeutics.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz8759</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>High-entropy perovskite oxides: Morphotropic phase boundary interfacial engineering for next-generation communications | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.aea0362</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    Precise atomic-level control over interfacial charge density and lattice distortions remains a critical challenge across electromagnetism, optoelectronics, and catalysis. Here, we introduce a high-entropy strategy that leverages local compositional disorder to synergistically manipulate charge density distribution and lattice strain at anisotropic morphotropic phase boundary (MPB) interfaces. Experimental and computational studies reveal that high-entropy effect stabilizes multiphase polar nanoclusters within high-entropy perovskite oxides (HEPOs). This unique structural feature drives efficient charge density redistribution, substantially enhancing MPB interfacial polarization. We showcase this approach in electromagnetism, where MPB interfacial engineering effectively transforms perovskite oxides from negligible to high-performance microwave absorption capability in the low-frequency range. It provides complete absorption coverage of the 5G n79 band and an unprecedented absorption efficiency of 0.71 GHz/mm, considerably surpassing state-of-the-art perovskite-based low-frequency absorbers. This work markedly underscores the feasibility of perovskite for effective low-frequency absorption in next-generation communication technologies while also highlighting the broad potential of our MPB interfacial engineering strategy in catalysis, photonics, and energy storage.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea0362</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>17-GHz lossless InP-membrane active metasurface | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.aea3538</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    High-speed active metasurfaces enable spatiotemporal light control within an ultrathin device layer, offering previously unexplored possibilities for optical communication, sensing, and computing. However, a trade-off between electrical conductivity and optical loss has hindered the realization of a high-speed, low-loss device. Here, we experimentally demonstrate an active metasurface operating at 1.5-μm wavelength range that achieves a record-high 17.5-GHz modulation bandwidth while maintaining a high quality (
+    &lt;i&gt;
+     Q
+    &lt;/i&gt;
+    ) factor of 102 and an ultralow optical loss of 0.56 dB. This is enabled by the indium phosphide (InP) membrane platform, where n-InP offers high electron mobility and low free-carrier absorption simultaneously. A high-
+    &lt;i&gt;
+     Q
+    &lt;/i&gt;
+    Friedrich-Wintgen quasi-bound-state-in-the-continuum mode within the InP-membrane high-contrast grating (InP HCG) traps light in the organic electro-optic material for efficient modulation. The InP HCG also functions as an ultralow-resistance interdigitated electrode, enabling 50-fold faster modulation than silicon-based counterparts. Our work paves the way toward active metasurfaces for high-speed spatiotemporal light control beyond the GHz regime.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea3538</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>Parallel stopped-flow interrogation of diverse biological systems at the single-molecule scale</title>
       <link>https://www.nature.com/articles/s41592-025-02944-4</link>
