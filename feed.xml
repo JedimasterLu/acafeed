@@ -8,10 +8,10 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Dec 2025 01:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 01:08:11 +0000</lastBuildDate>
     <item>
-      <title>Forced bond ionization–driven design of ultralow lattice thermal conductivity materials for flexible thermoelectrics | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adz7487</link>
+      <title>VTA dopaminergic neuronal activity during NREM sleep is modulated by learning and facilitates motor memory consolidation | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adw7427</link>
       <description>&lt;div id="abstracts"&gt;
  &lt;div&gt;
   &lt;section id="abstract"&gt;
@@ -19,45 +19,33 @@
     Abstract
    &lt;/h2&gt;
    &lt;div&gt;
-    The search for development strategies that yield low κ
-    &lt;sub&gt;
-     lat
-    &lt;/sub&gt;
-    has become the focus of thermoelectrics and barrier coatings. Here, we propose a “forced bond ionization” strategy by integrating conflicting coordination environments (planar three coordination versus tetrahedral four coordination of Cu) to form pseudo-tetrahedral structures. This approach induces partial ionization of Cu─I bonds in Cu
-    &lt;sub&gt;
-     5
-    &lt;/sub&gt;
-    TeS
-    &lt;sub&gt;
-     3
-    &lt;/sub&gt;
-    I
-    &lt;sub&gt;
-     3
-    &lt;/sub&gt;
-    (CTSI), yielding a record-low κ
-    &lt;sub&gt;
-     lat
-    &lt;/sub&gt;
-    of 0.17 W/(m·K) for dense inorganic polycrystals. The pseudo-tetrahedral configuration triggers shear modes, markedly reducing the transverse speed of sound (ν
-    &lt;sub&gt;
-     T
-    &lt;/sub&gt;
-    = 839 m/s) and amplifying anharmonicity (Grüneisen parameter γ = 2.76). Theoretical analysis reveals that coordination preference competition provides Cu atoms a metastable site, promoting the disordered behavior. The corresponding vibrations of I atoms and disordered Cu atoms dominate the phonon scattering while the material having remarkable flexibility and certain thermoelectric potential. This work establishes a bond ionization–driven design paradigm for ultralow κ
-    &lt;sub&gt;
-     lat
-    &lt;/sub&gt;
-    materials, marking a leap toward potential flexible thermoelectric applications.
+    Memory consolidation enables animals to draw on past experiences to guide future behavior. This process involves system- and synaptic-level changes and predominantly occurs during sleep. While hippocampal-cortical circuits are well studied in this context, the contributions of other systems, including dopaminergic circuits—key players in learning-related processes—remain poorly understood. Ventral tegmental area dopaminergic (VTA
+    &lt;sup&gt;
+     DA
+    &lt;/sup&gt;
+    ) neurons are active during sleep and suggested to participate in memory consolidation processes; however, causal evidence for this is lacking. Using calcium-dependent fiber photometry, electrophysiology, and chemogenetic and optogenetic manipulations across learning paradigms, we explore the functions of VTA
+    &lt;sup&gt;
+     DA
+    &lt;/sup&gt;
+    neuronal activity during sleep. We show that VTA
+    &lt;sup&gt;
+     DA
+    &lt;/sup&gt;
+    activity during nonrapid eye movement sleep is experience dependent, is enhanced by motor skill and associative learning, facilitates motor skill memory consolidation, and exhibits a motor learning–dependent increase in temporal coordination with cortical spindle oscillations. Our findings uncover a previously unidentified function for VTA
+    &lt;sup&gt;
+     DA
+    &lt;/sup&gt;
+    neurons in consolidating memories during sleep, advancing understanding of this central neuromodulator’s functions in regulating fundamental biological processes.
    &lt;/div&gt;
   &lt;/section&gt;
  &lt;/div&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz7487</guid>
-      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adw7427</guid>
+      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>17-GHz lossless InP-membrane active metasurface | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.aea3538</link>
+      <title>T-SCAPE: T cell immunogenicity scoring via cross-domain aided predictive engine | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adz8759</link>
       <description>&lt;div id="abstracts"&gt;
  &lt;div&gt;
   &lt;section id="abstract"&gt;
@@ -65,35 +53,41 @@
     Abstract
    &lt;/h2&gt;
    &lt;div&gt;
-    High-speed active metasurfaces enable spatiotemporal light control within an ultrathin device layer, offering previously unexplored possibilities for optical communication, sensing, and computing. However, a trade-off between electrical conductivity and optical loss has hindered the realization of a high-speed, low-loss device. Here, we experimentally demonstrate an active metasurface operating at 1.5-μm wavelength range that achieves a record-high 17.5-GHz modulation bandwidth while maintaining a high quality (
-    &lt;i&gt;
-     Q
-    &lt;/i&gt;
-    ) factor of 102 and an ultralow optical loss of 0.56 dB. This is enabled by the indium phosphide (InP) membrane platform, where n-InP offers high electron mobility and low free-carrier absorption simultaneously. A high-
-    &lt;i&gt;
-     Q
-    &lt;/i&gt;
-    Friedrich-Wintgen quasi-bound-state-in-the-continuum mode within the InP-membrane high-contrast grating (InP HCG) traps light in the organic electro-optic material for efficient modulation. The InP HCG also functions as an ultralow-resistance interdigitated electrode, enabling 50-fold faster modulation than silicon-based counterparts. Our work paves the way toward active metasurfaces for high-speed spatiotemporal light control beyond the GHz regime.
+    T cell immunogenicity, the ability of peptide fragments to elicit T cell responses, is a critical determinant of the safety and efficacy of protein therapeutics and vaccines. While deep learning shows promise for in silico prediction, the scarcity of comprehensive immunogenicity data is a major challenge. We present T cell immunogenicity scoring via cross-domain aided predictive engine (T-SCAPE), a novel multidomain deep learning framework that leverages adversarial domain adaptation to integrate diverse immunologically relevant data sources, including major histocompatibility complex (MHC) presentation, peptide-MHC (pMHC) binding affinity, T cell receptor–pMHC interaction, source organism information, and T cell activation. Validated through rigorous leakage-controlled benchmarks, T-SCAPE demonstrates exceptional performance in predicting T cell activation for specific peptide-MHC pairs. It also accurately predicts the antidrug antibody–inducing potential of therapeutic antibodies without requiring MHC inputs. This success is attributed to T-SCAPE’s biologically grounded and data-driven multidomain pretraining. Its consistent and robust performance highlights its potential to advance the development of safer and more effective vaccines and protein therapeutics.
    &lt;/div&gt;
   &lt;/section&gt;
  &lt;/div&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea3538</guid>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz8759</guid>
       <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>Electrical control of photon spin angular momentum in organic electroluminescent materials</title>
-      <link>https://www.nature.com/articles/s41566-025-01780-4</link>
-      <description>&lt;p&gt;Nature Photonics, Published online: 26 November 2025; &lt;a href="https://www.nature.com/articles/s41566-025-01780-4"&gt;doi:10.1038/s41566-025-01780-4&lt;/a&gt;&lt;/p&gt;Electrical tuning of the recombination zone in circularly polarized (CP) OLEDs enables switching the CP generation mechanism between normal and anomalous CP electroluminescence. This is exploited to electrically control the handedness of emitted CP light from the same device with the same enantiomer material.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41566-025-01780-4</guid>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <title>Atom-level enzyme active site scaffolding using RFdiffusion2</title>
+      <link>https://www.nature.com/articles/s41592-025-02975-x</link>
+      <description>&lt;p&gt;Nature Methods, Published online: 03 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02975-x"&gt;doi:10.1038/s41592-025-02975-x&lt;/a&gt;&lt;/p&gt;RFdiffusion2, an extension of the RFdiffusion framework, builds de novo enzyme active sites using atom-level functional group constraints.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02975-x</guid>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Improving electron microscopy with light</title>
-      <link>https://www.nature.com/articles/s41566-025-01798-8</link>
-      <description>&lt;p&gt;Nature Photonics, Published online: 02 December 2025; &lt;a href="https://www.nature.com/articles/s41566-025-01798-8"&gt;doi:10.1038/s41566-025-01798-8&lt;/a&gt;&lt;/p&gt;Shining intense laser pulses on an electron beam in an electron microscope corrects electron-optical spherical aberration, paving the way to using light to improve electron microscopy imaging.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41566-025-01798-8</guid>
-      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <title>C-COMPASS: a user-friendly neural network tool profiles cell compartments at protein and lipid levels</title>
+      <link>https://www.nature.com/articles/s41592-025-02880-3</link>
+      <description>&lt;p&gt;Nature Methods, Published online: 04 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02880-3"&gt;doi:10.1038/s41592-025-02880-3&lt;/a&gt;&lt;/p&gt;C-COMPASS is an open-source software designed to predict the spatial cellular distribution of proteins and lipids from cellular organelle profiling using a neural network-based regression model.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02880-3</guid>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Latent space-based network analysis for brain–behavior linking in neuroimaging</title>
+      <link>https://www.nature.com/articles/s41592-025-02896-9</link>
+      <description>&lt;p&gt;Nature Methods, Published online: 04 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02896-9"&gt;doi:10.1038/s41592-025-02896-9&lt;/a&gt;&lt;/p&gt;LatentSNA is a method for network analysis in human neuroimaging. It facilitates linking neural activity with behavior and improves biomarker prediction by reducing type II errors.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02896-9</guid>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Deep Imputation for Skeleton data (DISK) for behavioral science</title>
+      <link>https://www.nature.com/articles/s41592-025-02893-y</link>
+      <description>&lt;p&gt;Nature Methods, Published online: 04 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02893-y"&gt;doi:10.1038/s41592-025-02893-y&lt;/a&gt;&lt;/p&gt;Analysis of behavioral data often involves tracking animal keypoints in video and motion capture recordings. DISK imputes missing keypoints, thereby improving downstream analyses.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02893-y</guid>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
