@@ -8,7 +8,79 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Dec 2025 00:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 01:06:47 +0000</lastBuildDate>
+    <item>
+      <title>Forced bond ionization–driven design of ultralow lattice thermal conductivity materials for flexible thermoelectrics | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adz7487</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    The search for development strategies that yield low κ
+    &lt;sub&gt;
+     lat
+    &lt;/sub&gt;
+    has become the focus of thermoelectrics and barrier coatings. Here, we propose a “forced bond ionization” strategy by integrating conflicting coordination environments (planar three coordination versus tetrahedral four coordination of Cu) to form pseudo-tetrahedral structures. This approach induces partial ionization of Cu─I bonds in Cu
+    &lt;sub&gt;
+     5
+    &lt;/sub&gt;
+    TeS
+    &lt;sub&gt;
+     3
+    &lt;/sub&gt;
+    I
+    &lt;sub&gt;
+     3
+    &lt;/sub&gt;
+    (CTSI), yielding a record-low κ
+    &lt;sub&gt;
+     lat
+    &lt;/sub&gt;
+    of 0.17 W/(m·K) for dense inorganic polycrystals. The pseudo-tetrahedral configuration triggers shear modes, markedly reducing the transverse speed of sound (ν
+    &lt;sub&gt;
+     T
+    &lt;/sub&gt;
+    = 839 m/s) and amplifying anharmonicity (Grüneisen parameter γ = 2.76). Theoretical analysis reveals that coordination preference competition provides Cu atoms a metastable site, promoting the disordered behavior. The corresponding vibrations of I atoms and disordered Cu atoms dominate the phonon scattering while the material having remarkable flexibility and certain thermoelectric potential. This work establishes a bond ionization–driven design paradigm for ultralow κ
+    &lt;sub&gt;
+     lat
+    &lt;/sub&gt;
+    materials, marking a leap toward potential flexible thermoelectric applications.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz7487</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>17-GHz lossless InP-membrane active metasurface | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.aea3538</link>
+      <description>&lt;div id="abstracts"&gt;
+ &lt;div&gt;
+  &lt;section id="abstract"&gt;
+   &lt;h2&gt;
+    Abstract
+   &lt;/h2&gt;
+   &lt;div&gt;
+    High-speed active metasurfaces enable spatiotemporal light control within an ultrathin device layer, offering previously unexplored possibilities for optical communication, sensing, and computing. However, a trade-off between electrical conductivity and optical loss has hindered the realization of a high-speed, low-loss device. Here, we experimentally demonstrate an active metasurface operating at 1.5-μm wavelength range that achieves a record-high 17.5-GHz modulation bandwidth while maintaining a high quality (
+    &lt;i&gt;
+     Q
+    &lt;/i&gt;
+    ) factor of 102 and an ultralow optical loss of 0.56 dB. This is enabled by the indium phosphide (InP) membrane platform, where n-InP offers high electron mobility and low free-carrier absorption simultaneously. A high-
+    &lt;i&gt;
+     Q
+    &lt;/i&gt;
+    Friedrich-Wintgen quasi-bound-state-in-the-continuum mode within the InP-membrane high-contrast grating (InP HCG) traps light in the organic electro-optic material for efficient modulation. The InP HCG also functions as an ultralow-resistance interdigitated electrode, enabling 50-fold faster modulation than silicon-based counterparts. Our work paves the way toward active metasurfaces for high-speed spatiotemporal light control beyond the GHz regime.
+   &lt;/div&gt;
+  &lt;/section&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea3538</guid>
+      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>Electrical control of photon spin angular momentum in organic electroluminescent materials</title>
       <link>https://www.nature.com/articles/s41566-025-01780-4</link>
