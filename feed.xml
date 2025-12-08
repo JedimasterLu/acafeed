@@ -8,86 +8,69 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Dec 2025 01:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 02:32:02 +0000</lastBuildDate>
     <item>
-      <title>VTA dopaminergic neuronal activity during NREM sleep is modulated by learning and facilitates motor memory consolidation | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adw7427</link>
-      <description>&lt;div id="abstracts"&gt;
- &lt;div&gt;
-  &lt;section id="abstract"&gt;
-   &lt;h2&gt;
-    Abstract
-   &lt;/h2&gt;
-   &lt;div&gt;
-    Memory consolidation enables animals to draw on past experiences to guide future behavior. This process involves system- and synaptic-level changes and predominantly occurs during sleep. While hippocampal-cortical circuits are well studied in this context, the contributions of other systems, including dopaminergic circuits—key players in learning-related processes—remain poorly understood. Ventral tegmental area dopaminergic (VTA
-    &lt;sup&gt;
-     DA
-    &lt;/sup&gt;
-    ) neurons are active during sleep and suggested to participate in memory consolidation processes; however, causal evidence for this is lacking. Using calcium-dependent fiber photometry, electrophysiology, and chemogenetic and optogenetic manipulations across learning paradigms, we explore the functions of VTA
-    &lt;sup&gt;
-     DA
-    &lt;/sup&gt;
-    neuronal activity during sleep. We show that VTA
-    &lt;sup&gt;
-     DA
-    &lt;/sup&gt;
-    activity during nonrapid eye movement sleep is experience dependent, is enhanced by motor skill and associative learning, facilitates motor skill memory consolidation, and exhibits a motor learning–dependent increase in temporal coordination with cortical spindle oscillations. Our findings uncover a previously unidentified function for VTA
-    &lt;sup&gt;
-     DA
-    &lt;/sup&gt;
-    neurons in consolidating memories during sleep, advancing understanding of this central neuromodulator’s functions in regulating fundamental biological processes.
-   &lt;/div&gt;
-  &lt;/section&gt;
- &lt;/div&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adw7427</guid>
-      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+      <title>Electrical control of photon spin angular momentum in organic electroluminescent materials</title>
+      <link>https://www.nature.com/articles/s41566-025-01780-4</link>
+      <description>&lt;p&gt;Nature Photonics, Published online: 26 November 2025; &lt;a href="https://www.nature.com/articles/s41566-025-01780-4"&gt;doi:10.1038/s41566-025-01780-4&lt;/a&gt;&lt;/p&gt;Electrical tuning of the recombination zone in circularly polarized (CP) OLEDs enables switching the CP generation mechanism between normal and anomalous CP electroluminescence. This is exploited to electrically control the handedness of emitted CP light from the same device with the same enantiomer material.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41566-025-01780-4</guid>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>T-SCAPE: T cell immunogenicity scoring via cross-domain aided predictive engine | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adz8759</link>
-      <description>&lt;div id="abstracts"&gt;
- &lt;div&gt;
-  &lt;section id="abstract"&gt;
-   &lt;h2&gt;
-    Abstract
-   &lt;/h2&gt;
-   &lt;div&gt;
-    T cell immunogenicity, the ability of peptide fragments to elicit T cell responses, is a critical determinant of the safety and efficacy of protein therapeutics and vaccines. While deep learning shows promise for in silico prediction, the scarcity of comprehensive immunogenicity data is a major challenge. We present T cell immunogenicity scoring via cross-domain aided predictive engine (T-SCAPE), a novel multidomain deep learning framework that leverages adversarial domain adaptation to integrate diverse immunologically relevant data sources, including major histocompatibility complex (MHC) presentation, peptide-MHC (pMHC) binding affinity, T cell receptor–pMHC interaction, source organism information, and T cell activation. Validated through rigorous leakage-controlled benchmarks, T-SCAPE demonstrates exceptional performance in predicting T cell activation for specific peptide-MHC pairs. It also accurately predicts the antidrug antibody–inducing potential of therapeutic antibodies without requiring MHC inputs. This success is attributed to T-SCAPE’s biologically grounded and data-driven multidomain pretraining. Its consistent and robust performance highlights its potential to advance the development of safer and more effective vaccines and protein therapeutics.
-   &lt;/div&gt;
-  &lt;/section&gt;
- &lt;/div&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz8759</guid>
-      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+      <title>Improving electron microscopy with light</title>
+      <link>https://www.nature.com/articles/s41566-025-01798-8</link>
+      <description>&lt;p&gt;Nature Photonics, Published online: 02 December 2025; &lt;a href="https://www.nature.com/articles/s41566-025-01798-8"&gt;doi:10.1038/s41566-025-01798-8&lt;/a&gt;&lt;/p&gt;Shining intense laser pulses on an electron beam in an electron microscope corrects electron-optical spherical aberration, paving the way to using light to improve electron microscopy imaging.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41566-025-01798-8</guid>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Atom-level enzyme active site scaffolding using RFdiffusion2</title>
-      <link>https://www.nature.com/articles/s41592-025-02975-x</link>
-      <description>&lt;p&gt;Nature Methods, Published online: 03 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02975-x"&gt;doi:10.1038/s41592-025-02975-x&lt;/a&gt;&lt;/p&gt;RFdiffusion2, an extension of the RFdiffusion framework, builds de novo enzyme active sites using atom-level functional group constraints.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02975-x</guid>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <title>Self-assembled cell-scale containers made from DNA origami membranes</title>
+      <link>https://www.nature.com/articles/s41563-025-02418-0</link>
+      <description>&lt;p&gt;Nature Materials, Published online: 28 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02418-0"&gt;doi:10.1038/s41563-025-02418-0&lt;/a&gt;&lt;/p&gt;Through the programmable self-assembly of lipid-inspired radially symmetric DNA, porous molecular membranes and cell-sized compartments are formed with applications in bottom-up biology and soft robotics.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02418-0</guid>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>C-COMPASS: a user-friendly neural network tool profiles cell compartments at protein and lipid levels</title>
-      <link>https://www.nature.com/articles/s41592-025-02880-3</link>
-      <description>&lt;p&gt;Nature Methods, Published online: 04 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02880-3"&gt;doi:10.1038/s41592-025-02880-3&lt;/a&gt;&lt;/p&gt;C-COMPASS is an open-source software designed to predict the spatial cellular distribution of proteins and lipids from cellular organelle profiling using a neural network-based regression model.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02880-3</guid>
+      <title>Super-expansive thermo-reversible interstitial solid solution of nanocrystal superlattices with mesogens</title>
+      <link>https://www.nature.com/articles/s41563-025-02388-3</link>
+      <description>&lt;p&gt;Nature Materials, Published online: 28 November 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02388-3"&gt;doi:10.1038/s41563-025-02388-3&lt;/a&gt;&lt;/p&gt;Combining liquid crystals and nanocrystals functionalized with promesogenic ligands yields an interstitial colloidal solid solution exhibiting high thermal expansivity and reversible superlattice phase transitions driven by mesogen diffusion.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02388-3</guid>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultrafast time-resolved observation of non-thermal current-induced switching in an antiferromagnetic Weyl semimetal</title>
+      <link>https://www.nature.com/articles/s41563-025-02402-8</link>
+      <description>&lt;p&gt;Nature Materials, Published online: 04 December 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02402-8"&gt;doi:10.1038/s41563-025-02402-8&lt;/a&gt;&lt;/p&gt;This study reveals spatiotemporally resolved current-induced switching in Mn3Sn thin films, identifying both thermal and non-thermal mechanisms depending on the amplitude of the current.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02402-8</guid>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Latent space-based network analysis for brain–behavior linking in neuroimaging</title>
-      <link>https://www.nature.com/articles/s41592-025-02896-9</link>
-      <description>&lt;p&gt;Nature Methods, Published online: 04 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02896-9"&gt;doi:10.1038/s41592-025-02896-9&lt;/a&gt;&lt;/p&gt;LatentSNA is a method for network analysis in human neuroimaging. It facilitates linking neural activity with behavior and improves biomarker prediction by reducing type II errors.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02896-9</guid>
+      <title>Shining a light on interfacial conductivity</title>
+      <link>https://www.nature.com/articles/s41563-025-02427-z</link>
+      <description>&lt;p&gt;Nature Materials, Published online: 04 December 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02427-z"&gt;doi:10.1038/s41563-025-02427-z&lt;/a&gt;&lt;/p&gt;Ultraviolet illumination dramatically increases electrical conductivity at the interface between two oxide compounds.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02427-z</guid>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Deep Imputation for Skeleton data (DISK) for behavioral science</title>
-      <link>https://www.nature.com/articles/s41592-025-02893-y</link>
-      <description>&lt;p&gt;Nature Methods, Published online: 04 December 2025; &lt;a href="https://www.nature.com/articles/s41592-025-02893-y"&gt;doi:10.1038/s41592-025-02893-y&lt;/a&gt;&lt;/p&gt;Analysis of behavioral data often involves tracking animal keypoints in video and motion capture recordings. DISK imputes missing keypoints, thereby improving downstream analyses.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41592-025-02893-y</guid>
+      <title>Breaking the rule of reciprocity in soft composite solids</title>
+      <link>https://www.nature.com/articles/s41563-025-02435-z</link>
+      <description>&lt;p&gt;Nature Materials, Published online: 04 December 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02435-z"&gt;doi:10.1038/s41563-025-02435-z&lt;/a&gt;&lt;/p&gt;Borrowing an idea from granular physics, researchers design and engineer soft composite materials with non-reciprocal static and dynamical mechanical behaviours, which could power the next generation of soft robots.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02435-z</guid>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cryogenically self-healing organic crystals</title>
+      <link>https://www.nature.com/articles/s41563-025-02411-7</link>
+      <description>&lt;p&gt;Nature Materials, Published online: 05 December 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02411-7"&gt;doi:10.1038/s41563-025-02411-7&lt;/a&gt;&lt;/p&gt;Cryogenic conditions limit molecular diffusion, inhibiting self-healing in most molecular systems. Here the authors present an organic molecular crystal capable of autonomous recovery at 77 K due to strong dipole–dipole interactions between aligned molecular layers.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02411-7</guid>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>&lt;i&gt;P&lt;/i&gt;-wave magnetism in a metal</title>
+      <link>https://www.nature.com/articles/s41563-025-02431-3</link>
+      <description>&lt;p&gt;Nature Materials, Published online: 05 December 2025; &lt;a href="https://www.nature.com/articles/s41563-025-02431-3"&gt;doi:10.1038/s41563-025-02431-3&lt;/a&gt;&lt;/p&gt;&lt;i&gt;P&lt;/i&gt;-wave magnetism in a metal</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41563-025-02431-3</guid>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
