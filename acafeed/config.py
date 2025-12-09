@@ -3,12 +3,14 @@ This file defines the default configuration for the AcaFeed application.
 It includes settings for the database, logging, and other application parameters.
 '''
 
-from dataclasses import dataclass
+from dataclasses import dataclass, field
+from .abbr_table import arxiv_abbr
 
 @dataclass
 class FeedConfig:
 
     # Feedmanager configuration
+    sources: list[str] = field(default_factory=list)
 
     # Feedemmiter configuration
     feed_title: str = "Acafeed Generated Feed"
@@ -22,10 +24,12 @@ class FeedConfig:
     max_title_length: int = 64
     threshold: float = 0.4
     device: str | None = None
+    interests: list[str] = field(default_factory=list)
 
     def to_dict(self):
         """Convert the configuration to a dictionary."""
         return {
+            "sources": self.sources,
             "feed_title": self.feed_title,
             "repo": self.repo,
             "description": self.description,
@@ -34,5 +38,17 @@ class FeedConfig:
             "tokenizer_name": self.tokenizer_name,
             "max_title_length": self.max_title_length,
             "threshold": self.threshold,
-            "device": self.device
+            "device": self.device,
+            "interests": self.interests
         }
+    
+    def __post_init__(self):
+        """Ensure sources is always a list."""
+        assert isinstance(self.sources, list), "sources must be a list"
+        if any(not isinstance(url, str) for url in self.sources):
+            raise ValueError("All source URLs must be strings")
+        abbr_table = arxiv_abbr()
+        for i in self.interests:
+            if i.lstrip("+-") not in abbr_table.values():
+                raise ValueError(f"Interest '{i}' is not a valid arXiv category abbreviation.")
+        

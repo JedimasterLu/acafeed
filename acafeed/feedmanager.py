@@ -5,6 +5,7 @@ It provides methods to add, remove, and update rss feed links,
 as well as to fetch and parse the rss feeds.
 It also provides slots for the later AI classification module.
 """
+import time
 import datetime
 from dataclasses import dataclass
 import pickle
@@ -35,6 +36,15 @@ class Feed:
             print(f"Warning: The link {self.link} is redirected (301). Please check if the link is correct.")
         elif sample.status == 410:
             raise ValueError(f"The link {self.link} is gone (410). Please check if the link is correct.")
+        
+
+@dataclass
+class FeedEntry:
+    title: str
+    content: str
+    authors: list[str]
+    link: str
+    publish_time: datetime.datetime
 
 
 class FeedSource:
@@ -53,12 +63,35 @@ class FeedSource:
         last updated time, and history data.
         """
         self._feeds: list[Feed] = []
+        # Read the txt file in asset to get a dict of common feed names and their urls
+        with open("asset/all-feeds.txt", "r") as f:
+            lines = f.readlines()
+        lines = [line.split(" | ") for line in lines]
+        self.common_feeds: dict[str, str] = {line[0].strip(): line[1].strip() for line in lines}
     
     @property
     def names(self) -> list[str]:
         """Returns the list of feed names."""
         names = [feed.name for feed in self._feeds]
         return names
+    
+    def add_by_title(self, title: str, name: str | None = None):
+        """Adds a new RSS feed by its common title.
+
+        Args:
+            title (str): The common title of the RSS feed.
+            name (str | None, optional): A user-defined name for the feed.
+                If None, uses the title as the name. Defaults to None.
+
+        Raises:
+            ValueError: If the title is not found in the common feeds.
+        """
+        if title not in self.common_feeds.keys():
+            raise ValueError(f"The title {title} is not found in the common feeds.")
+        link = self.common_feeds[title]
+        if name is None:
+            name = title
+        self.add(link, name)
     
     def add(self, link: str, name: str):
         """Adds a new RSS feed to the list.
@@ -204,3 +237,33 @@ class FeedSource:
                 parsed_feed = feedparser.parse(feed.link)
                 return parsed_feed
         return None
+    
+    def fetch_all(self) -> list[FeedEntry]:
+        """Fetches and parses all RSS feeds in the list.
+
+        Returns:
+            list[FeedEntry]: A list of parsed feed data.
+        """
+        entries: list[FeedEntry] = []
+        for feed_name in self.names:
+            parsed_feed = self.fetch(feed_name)
+            if parsed_feed is None:
+                continue
+            for entry in parsed_feed.entries:
+                if 'authors' in entry:
+                    authors = [e['name'] for e in entry['authors']]
+                else:
+                    authors = []
+                publish_time = entry['updated_parsed']
+                assert isinstance(publish_time, time.struct_time)
+                new_entry = {
+                    'title': entry['title'],
+                    'content': entry['content'][0]['value'] if 'content' in entry else entry.get('summary', ''),
+                    'authors': authors,
+                    'publish_time': datetime.datetime(*publish_time[:6], tzinfo=datetime.timezone.utc),
+                    'link': entry['link']
+                }
+                new_entry_obj = FeedEntry(**new_entry)
+                entries.append(new_entry_obj)
+        return entries
+

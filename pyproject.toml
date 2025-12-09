@@ -22,7 +22,7 @@ dependencies = [
 ]
 
 [project.scripts]
-acafeed = "acafeed.main:main"
+acafeed = "main:main"
 
 [dependency-groups]
 dev = [

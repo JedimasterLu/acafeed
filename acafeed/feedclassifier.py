@@ -44,8 +44,6 @@ class FeedClassifier:
         else:
             self.device = torch.device(device)
         
-        print(f"Using device: {self.device}")
-        
         # 设置参数
         self.max_length = max_length
         self.threshold = threshold
@@ -64,8 +62,6 @@ class FeedClassifier:
         if not ckpt_path.exists():
             raise FileNotFoundError(f"Checkpoint file not found: {ckpt_path}")
         
-        print(f"Loading checkpoint from: {ckpt_path}")
-        
         # 加载 checkpoint
         ckpt = torch.load(ckpt_path, map_location=self.device, weights_only=False)
         
@@ -79,8 +75,6 @@ class FeedClassifier:
             num_labels = model_state[classifier_keys[0]].shape[0]
         else:
             raise ValueError("Cannot infer num_labels from checkpoint")
-        
-        print(f"Number of labels: {num_labels}")
         
         # 初始化模型（使用相同的架构）
         self.model = AutoModelForSequenceClassification.from_pretrained(
@@ -99,17 +93,12 @@ class FeedClassifier:
         if "id2label" in ckpt:
             # 直接从 checkpoint 读取
             self.id2label = ckpt["id2label"]
-            print(f"Loaded id2label mapping from checkpoint ({len(self.id2label)} labels)")
         elif hasattr(self.model.config, "id2label") and self.model.config.id2label:
             # 尝试从模型配置读取
             self.id2label = self.model.config.id2label
-            print(f"Loaded id2label mapping from model config ({len(self.id2label)} labels)")
         else:
             # 使用数字标签作为后备方案
             self.id2label = {i: f"label_{i}" for i in range(num_labels)}
-            print("Warning: No id2label mapping found, using numeric labels")
-        
-        print("Model loaded successfully. Ready for inference.")
     
     def _sigmoid(self, x):
         """Sigmoid 函数"""
@@ -188,31 +177,67 @@ class FeedClassifier:
         ) -> list[bool]:
         """Judge whether the labels in results belongs to user's interest.
 
-        As long as one of the labels in classes appears in the top k labels of a result,
-        the result is considered relevant (True). Otherwise, it is considered irrelevant (False).
+        Supports prefix operators for flexible matching:
+        - No prefix (OR): At least one of these classes should appear
+        - '+' prefix (AND): This class must appear
+        - '-' prefix (NOT): This class must not appear
 
         Args:
-            classes (list[str]): User's interested classes. The elements should be label names.
+            classes (list[str]): User's interested classes with optional prefixes.
+                Examples: ["Machine Learning", "+Computer Vision", "-Biology"]
             results (list[PredictionResult]): The prediction results to judge.
 
         Returns:
             list[bool]: A list of booleans indicating whether each result is relevant.
         """
         abbr_table = arxiv_abbr()
-        # Check whether all the class in classes are valid labels in arxiv abbreviation table
+        
+        # Parse classes into different categories
+        or_classes = []
+        and_classes = []
+        not_classes = []
+        
         for cls in classes:
-            if cls not in abbr_table.values():
-                raise ValueError(f"Class '{cls}' is not a valid label in arxiv abbreviation table.")
+            if cls.startswith('+'):
+                class_name = cls[1:]
+                if class_name not in abbr_table.values():
+                    raise ValueError(f"Class '{class_name}' is not a valid label in arxiv abbreviation table.")
+                and_classes.append(class_name)
+            elif cls.startswith('-'):
+                class_name = cls[1:]
+                if class_name not in abbr_table.values():
+                    raise ValueError(f"Class '{class_name}' is not a valid label in arxiv abbreviation table.")
+                not_classes.append(class_name)
+            else:
+                if cls not in abbr_table.values():
+                    raise ValueError(f"Class '{cls}' is not a valid label in arxiv abbreviation table.")
+                or_classes.append(cls)
         
         judgments = []
         for result in results:
             assert result.top_labels is not None, \
                 "Top labels are required for judgment. Please set return_all_scores=True in predict()."
-            if any(j == abbr_table[result.top_labels[k].label]
-                   for k in range(len(result.top_labels))
-                   for j in classes):
-                judgments.append(True)
-            else:
+            
+            top_label_names = [abbr_table[label.label] for label in result.top_labels]
+            
+            # Check NOT conditions (must not contain any)
+            has_excluded = any(not_class in top_label_names for not_class in not_classes)
+            if has_excluded:
                 judgments.append(False)
+                continue
+            
+            # Check AND conditions (must contain all)
+            has_all_required = all(and_class in top_label_names for and_class in and_classes)
+            if not has_all_required:
+                judgments.append(False)
+                continue
+            
+            # Check OR conditions (must contain at least one, if any OR classes specified)
+            if or_classes:
+                has_any_or = any(or_class in top_label_names for or_class in or_classes)
+                judgments.append(has_any_or)
+            else:
+                # If no OR classes, and we passed AND/NOT checks, it's relevant
+                judgments.append(True)
         
         return judgments
