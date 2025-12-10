@@ -8,31 +8,24 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Dec 2025 21:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 21:26:35 +0000</lastBuildDate>
     <item>
-      <title>Reactant-dependent volcano trends in Pt-catalyzed cycloalkane dehydrogenation: orbital hybridization-guided design of active sites</title>
-      <link>https://www.nature.com/articles/s41467-025-66782-w</link>
-      <description>&lt;p&gt;Nature Communications, Published online: 09 December 2025; &lt;a href="https://www.nature.com/articles/s41467-025-66782-w"&gt;doi:10.1038/s41467-025-66782-w&lt;/a&gt;&lt;/p&gt;Catalyst design is typically tailored to individual reactions because universal descriptors connecting molecular structure to ideal active-site configurations are lacking. Here, the authors reveal a reactant-dependent volcano trend in Pt-catalyzed cycloalkane dehydrogenation, dictated by the Pt–Pt coordination number.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41467-025-66782-w</guid>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <title>Efficient perovskite/Cu(In,Ga)Se&lt;sub&gt;2&lt;/sub&gt; tandem solar cells with a composite intermediate recombination layer</title>
+      <link>https://www.nature.com/articles/s41467-025-67350-y</link>
+      <description>&lt;p&gt;Nature Communications, Published online: 10 December 2025; &lt;a href="https://www.nature.com/articles/s41467-025-67350-y"&gt;doi:10.1038/s41467-025-67350-y&lt;/a&gt;&lt;/p&gt;Challenges remain in optimizing efficiency and stability of monolithic perovskite/Cu(In,Ga)Se2 (CIGS) tandem solar cells. Here, authors develop a composite-structured intermediate recombination layer and achieve maximum efficiency of 28.04% and 30.71% for 0.51 cm2 and 0.15 cm2 cells, respectively.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41467-025-67350-y</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Biguanide-functionalized peptide mimics effectively combat drug-resistant ESKAPE pathogens and meningitis</title>
-      <link>https://www.nature.com/articles/s41467-025-67044-5</link>
-      <description>&lt;p&gt;Nature Communications, Published online: 09 December 2025; &lt;a href="https://www.nature.com/articles/s41467-025-67044-5"&gt;doi:10.1038/s41467-025-67044-5&lt;/a&gt;&lt;/p&gt;ESKAPE pathogens-induced meningitis threatens human health due to antimicrobial resistance and low permeability of blood-brain barrier (BBB). Here, the authors report that biguanide-functionalized poly(2-oxazoline) exhibits potent activity against drug-resistant ESKAPE pathogens and effectively penetrates the BBB, providing a promising strategy for combating ESKAPE pathogens and meningitis.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41467-025-67044-5</guid>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <title>All-metallic magnetic Purcell enhancement in a thermally stable room-temperature maser</title>
+      <link>https://www.nature.com/articles/s41467-025-66016-z</link>
+      <description>&lt;p&gt;Nature Communications, Published online: 10 December 2025; &lt;a href="https://www.nature.com/articles/s41467-025-66016-z"&gt;doi:10.1038/s41467-025-66016-z&lt;/a&gt;&lt;/p&gt;Dielectric structures that enhance magnetic emission are key for quantum devices but often suffer from thermal instability. Here, the authors realize a dielectric-free, compact metallic resonator with strong Purcell enhancement, enabling stable room-temperature maser action.</description>
+      <guid isPermaLink="false">https://www.nature.com/articles/s41467-025-66016-z</guid>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Implementing N-terminomics and machine learning to probe Nt-arginylation</title>
-      <link>https://www.nature.com/articles/s41467-025-66883-6</link>
-      <description>&lt;p&gt;Nature Communications, Published online: 09 December 2025; &lt;a href="https://www.nature.com/articles/s41467-025-66883-6"&gt;doi:10.1038/s41467-025-66883-6&lt;/a&gt;&lt;/p&gt;Cataloguing Nt-arginylated proteins is prone to false positives. Here, the authors use MS-based fine-tuned LLM models with molecular proxies-physically identical yet known false positives-to discriminate true sites. They further track the modifications over time using prediction-based targeted MS.</description>
-      <guid isPermaLink="false">https://www.nature.com/articles/s41467-025-66883-6</guid>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sensitive detection of structural dynamics using a statistical framework for comparative crystallography | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adj2921</link>
+      <title>Deep-blue light-emitting diodes based on perovskite single-crystal thin films | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adz8060</link>
       <description>&lt;div id="abstracts"&gt;
  &lt;div&gt;
   &lt;section id="abstract"&gt;
@@ -40,17 +33,21 @@
     Abstract
    &lt;/h2&gt;
    &lt;div&gt;
-    Chemical and conformational changes are crucial to protein function and its pharmacological control. X-ray crystallography can reveal these changes in atomic detail, but standard analysis methods, which refine separate datasets, often overlook differences that are subtle or arise in only a subset of molecules. Direct comparison of crystallographic datasets is, in principle, more powerful, but systematic errors (“scales”) often mask changes in the crystallographic observables (“structure factors”). Machine learning algorithms that jointly estimate scales and structure factors can address this limitation. Here, we augment this approach with multivariate, structured priors derived from crystallographic theory, implemented in the variational deep learning framework Careless. Doing so strongly improves the detection of protein dynamics, element-specific anomalous signals, and the binding of drug candidates, offering a robust approach to comparative crystallography and, potentially, to detection of protein dynamics by other structure determination methods.
+    Metal halide perovskite light-emitting diodes (LEDs) are transformative optoelectronic platforms due to their tunable emission, high color purity, and broad color gamut. Nevertheless, the realization of high-luminance blue LEDs, particularly in the deep-blue spectral region, remains challenging compared to their green and red counterparts. This disparity is primarily attributed to the impaired charge transport kinetics and severe nonradiative recombination, both induced by the structural defects in wide-bandgap perovskites. Here, we address this issue through in situ growth of deep-blue–emitting perovskite single-crystal thin films (SCTFs). The resulting SCTFs exhibit exceptional crystallographic orientation, long-range structural ordering, and atomic-level smooth surfaces with a root mean square roughness of 109 picometers. In addition, the SCTFs show a low trap density of 6.9 × 10
+    &lt;sup&gt;
+     14
+    &lt;/sup&gt;
+    per cubic centimeter. These structural advantages translate to a high photoluminescence quantum yield of 48% and suppressed nonradiative recombination, enabling deep-blue LEDs with a maximum electroluminescence luminance of 179 candelas per square meter at 419 nanometers.
    &lt;/div&gt;
   &lt;/section&gt;
  &lt;/div&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adj2921</guid>
-      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz8060</guid>
+      <pubDate>Wed, 10 Dec 2025 14:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>VTA dopaminergic neuronal activity during NREM sleep is modulated by learning and facilitates motor memory consolidation | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adw7427</link>
+      <title>Direct imaging of facet development during growth of single-crystal covalent organic frameworks | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.adz8131</link>
       <description>&lt;div id="abstracts"&gt;
  &lt;div&gt;
   &lt;section id="abstract"&gt;
@@ -58,33 +55,17 @@
     Abstract
    &lt;/h2&gt;
    &lt;div&gt;
-    Memory consolidation enables animals to draw on past experiences to guide future behavior. This process involves system- and synaptic-level changes and predominantly occurs during sleep. While hippocampal-cortical circuits are well studied in this context, the contributions of other systems, including dopaminergic circuits—key players in learning-related processes—remain poorly understood. Ventral tegmental area dopaminergic (VTA
-    &lt;sup&gt;
-     DA
-    &lt;/sup&gt;
-    ) neurons are active during sleep and suggested to participate in memory consolidation processes; however, causal evidence for this is lacking. Using calcium-dependent fiber photometry, electrophysiology, and chemogenetic and optogenetic manipulations across learning paradigms, we explore the functions of VTA
-    &lt;sup&gt;
-     DA
-    &lt;/sup&gt;
-    neuronal activity during sleep. We show that VTA
-    &lt;sup&gt;
-     DA
-    &lt;/sup&gt;
-    activity during nonrapid eye movement sleep is experience dependent, is enhanced by motor skill and associative learning, facilitates motor skill memory consolidation, and exhibits a motor learning–dependent increase in temporal coordination with cortical spindle oscillations. Our findings uncover a previously unidentified function for VTA
-    &lt;sup&gt;
-     DA
-    &lt;/sup&gt;
-    neurons in consolidating memories during sleep, advancing understanding of this central neuromodulator’s functions in regulating fundamental biological processes.
+    Single-crystal covalent organic frameworks (COFs) have received increasing interest due to their well-defined structures and exceptional performance. However, the reaction pathways of the facet development during growth of single-crystal COFs remains unclear, limiting the regulation of their shapes and functions. We report the dynamic imaging of the facet development during single-crystal COF-300 microcrystal growth using in situ dark-field optical microscopy. Our observations reveal that the concentration of terephthalaldehyde (BDA) linkers not only influences the morphology of the primary COF-300 crystal seeds but also governs the facet evolution, leading to the generation of differently shaped COF-300 microcrystals. Mechanistic studies reveal that the observed shape evolution of COF-300 single crystals arises from distinct kinetically or thermodynamically controlled growth pathways, depending on the BDA concentration. Moreover, we uncover the shape-dependent deformation capacity after solvent uptake, demonstrating the impact of COF-300 crystal morphology on its performance. These discoveries elucidate the COF facet transition mechanism and offer guidance for the future design of single-crystal COFs.
    &lt;/div&gt;
   &lt;/section&gt;
  &lt;/div&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adw7427</guid>
-      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz8131</guid>
+      <pubDate>Wed, 10 Dec 2025 14:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>Asymmetric synthesis of chiral boronic esters featuring nonadjacent axial and flexible, acyclic central chirality | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adz8755</link>
+      <title>Unlocking megawatt-peak-power laser emission with colloidal quantum dots | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.aea8326</link>
       <description>&lt;div id="abstracts"&gt;
  &lt;div&gt;
   &lt;section id="abstract"&gt;
@@ -92,37 +73,17 @@
     Abstract
    &lt;/h2&gt;
    &lt;div&gt;
-    Nonadjacent chirality is prevalent in pharmaceuticals and bioactive molecules, but prior studies primarily focused on constructing noncontiguous stereocenters. However, the construction of nonadjacent axial and flexible, acyclic central chirality often involves highly flexible transition states, posing challenges in achieving precise control over enantio- and diastereoselectivity. Here, extensive ligand screening, followed by structural modification and optimization, identified a bulky
-    &lt;i&gt;
-     P
-    &lt;/i&gt;
-    ,
-    &lt;i&gt;
-     N
-    &lt;/i&gt;
-    -phosphinooxazoline (
-    &lt;i&gt;
-     P
-    &lt;/i&gt;
-    ,
-    &lt;i&gt;
-     N
-    &lt;/i&gt;
-    -phox) ligand derived from
-    &lt;span&gt;
-     l
-    &lt;/span&gt;
-    -serine, enabling the direct asymmetric construction of atropisomers with axial and flexible, acyclic central chirality. The reaction demonstrates broad substrate scope, accommodating diverse aryl, alkyl, and natural product–derived boronic esters, and tolerates aryl trifluoromethanesulfonates (ArOTfs) with varying electronic and steric properties. Mechanistic studies indicate a palladium(II) intermediate, with 1,2-carbon migration as the rate-determining step. Furthermore, product derivatization introduces diverse functional groups, enhancing molecular complexity and facilitating downstream transformations.
+    Output power of a laser device critically defines the application prospects. Colloidal quantum dots (QDs) have emerged as auspicious laser media; however, the exclusively low-power emission obscures the practical deployment. Here, we resolve this challenge by designing an architecture of QD laser with unprecedented peak powers in megawatt regime. The achievement is enabled by integrating the QDs with exceptional gain metrics with a seed-amplifier laser structure. Transient spectroscopy and theoretical simulation reveal that the narrow emission linewidth and large biexciton binding energy of the QDs act synergistically to enable an enhanced gain performance with submonoexcitonic threshold and record high–saturated gain cross section. A Littman-Metcalf cavity is designed to deliver the continuously tunable laser emission, and the synchronous amplification reaches the megawatt output. The high-power QD laser exhibits high spatial coherence, linear polarization, and operational endurance, which has proved effective as the pump source for spectroscopic research.
    &lt;/div&gt;
   &lt;/section&gt;
  &lt;/div&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz8755</guid>
-      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea8326</guid>
+      <pubDate>Wed, 10 Dec 2025 14:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>Achieving cysteine-selective peptide/protein bioconjugation via tunable triazine-pyridine chemistry | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.aea6904</link>
+      <title>Outcompeting hydrofunctionalization: Asymmetric remote substitution of alkynes | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.aeb0726</link>
       <description>&lt;div id="abstracts"&gt;
  &lt;div&gt;
   &lt;section id="abstract"&gt;
@@ -130,37 +91,17 @@
     Abstract
    &lt;/h2&gt;
    &lt;div&gt;
-    The development of cysteine (Cys)–selective bioconjugation reagents with enhanced stability remains a critical challenge for therapeutic applications such as antibody-drug conjugates (ADCs). Leveraging the modular 1,3,5-triazine scaffold, we report the design and optimization of triazine-pyridinium chemistry (TPC) reagents for selective Cys labeling. Through systematic structural modifications and computational studies, we identified reagent
-    &lt;b&gt;
-     9b
-    &lt;/b&gt;
-    , featuring a
-    &lt;i&gt;
-     para
-    &lt;/i&gt;
-    -
-    &lt;i&gt;
-     N
-    &lt;/i&gt;
-    ,
-    &lt;i&gt;
-     N
-    &lt;/i&gt;
-    -dimethylaminopyridinium leaving group and ethoxy substitution, as the most efficient and selective candidate for selective protein labeling.
-    &lt;b&gt;
-     9b
-    &lt;/b&gt;
-    demonstrated near-quantitative Cys labeling (&amp;gt;95% yield) under physiological conditions (pH 7.4) while suppressing tyrosine reactivity, a limitation of earlier TPC probes. The reagent demonstrated excellent compatibility with various peptides and proteins, including therapeutic antibodies like trastuzumab, showcasing its potential for constructing ADCs. The optimized labeling ensured robust stability of the conjugates in biological environments, highlighting the practical applicability of this methodology. Our findings underscore the promise of triazine-pyridinium chemistry in developing stable, site-specific bioconjugates for targeted therapeutic applications.
+    Propargylic substitution is a broadly studied basic reaction but requires a vicinal leaving group in the alkyne substrate. Here, we describe the first asymmetric remote substitution of alkynes bearing a linear alkyl-linked remote leaving group via synergistic Pd/amine catalysis. A set of modified diamine organocatalysts guarantees the high regio-, geometry- and enantioselectivity of the remote coupling between alkynes and aldehydes, during which conventionally more competitive hydrofunctionalization process is completely inhibited. Scale-up test and various derivatizations show the reliability and value of the protocol. Mechanistic studies suggest that the formation of crucial 1,3-diene intermediate from alkyne and a complex redox pathway of Pd metal are involved in the catalytic cycle.
    &lt;/div&gt;
   &lt;/section&gt;
  &lt;/div&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea6904</guid>
-      <pubDate>Wed, 03 Dec 2025 14:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aeb0726</guid>
+      <pubDate>Wed, 10 Dec 2025 14:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>Mitochondria-localized photocatalyst of biomimetic organic semiconductor nanoparticles for NIR-activatable photocatalytic immunotherapy | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adx4850</link>
+      <title>Plasmonic Su–Schrieffer–Heeger chains with strong coupling amplitudes | Science Advances</title>
+      <link>https://www.science.org/doi/10.1126/sciadv.aea3844</link>
       <description>&lt;div id="abstracts"&gt;
  &lt;div&gt;
   &lt;section id="abstract"&gt;
@@ -168,227 +109,13 @@
     Abstract
    &lt;/h2&gt;
    &lt;div&gt;
-    Photocatalytic therapy holds great prospects in high-performance tumor treatment owing to its advantages of noninvasiveness and oxygen nonreliance. However, there is still a lack of ideal photocatalyst materials that respond to near-infrared (NIR) light, especially with organelle-specific features. Here, a mitochondria-biomimetic organic semiconductor photocatalyst was designed for NIR-activatable photocatalytic immunotherapy of recurrent and metastatic tumor. With biomimetic of mitochondrial membrane, a NIR-responsive conjugated polymer YBSe-SS was prepared into biomimetic nano-photocatalysts (Mito-NPs). Upon NIR-light irradiation, the Mito-NPs achieved effective photocatalytic oxidation of reduced nicotinamide adenine dinucleotide and mitochondria dysfunction, benefiting from the mitochondria-targeted performance. Also, relatively high multiphototheranostics were demonstrated by the Mito-NPs. Subsequently, with Mito-NP–regulated mitochondrial function and metabolism, the in vivo experiments proved that the photocatalytic Mito-NPs combined with immune checkpoint therapy achieved photocatalytic immunotherapy for suppressing primary and pulmonary metastasis of osteosarcoma. This work offers a practical paradigm for NIR-activatable organic photocatalytic materials for high-performance tumor therapy.
+    Plasmonic many-particle systems with precisely tuned resonances and coupling strengths can exhibit emergent collective properties governed by universal principles. In one-dimensional chains with alternating couplings, known as Su–Schrieffer–Heeger (SSH) systems, this includes the formation of topologically protected mid-gap modes whose intensities localize at the chain’s ends. This subwavelength localization at optical frequencies is crucial for achieving strong coupling of mid-gap modes to two-level systems under ambient conditions, extending topological protection to hybrid light–matter states. Here, we have fabricated SSH chains from plasmonic nanoslit resonators with strong interresonator coupling. The alternating distance between the nanoslit resonators is controlled with subnanometer precision, enabling accurate prediction and experimental observation of topologically protected mid-gap modes via photoemission electron microscopy. Our results open the path toward experimental realizations of two-dimensional photonic metasurfaces exhibiting higher-order topological modes that can be strongly coupled to single emitters and quantum materials at ambient conditions.
    &lt;/div&gt;
   &lt;/section&gt;
  &lt;/div&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adx4850</guid>
-      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Investigating charge accumulation mechanisms in organic materials via slow transient emission spectroscopy | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adx9806</link>
-      <description>&lt;div id="abstracts"&gt;
- &lt;div&gt;
-  &lt;section id="abstract"&gt;
-   &lt;h2&gt;
-    Abstract
-   &lt;/h2&gt;
-   &lt;div&gt;
-    Long-persistent luminescent (LPL) materials store photon energy as charges and emit light over extended periods via charge recombination. LPL decay typically follows a power law rather than an exponential decay, enabling confirmation of charge accumulation from emission decay characteristics. While charge generation in organic materials has been widely studied at donor-acceptor (D/A) interfaces, it remains underexplored in single-component luminescent materials. Here, we investigate charge generation in organic solids by dispersing a luminescent molecule in various hosts and performing slow transient emission analyses. This approach enables the evaluation of ionization through accumulated triplet excited states and the detection of weak charge accumulation, which are difficult to capture using conventional transient techniques. Our results show that ionization in single-component materials proceeds through resonance-enhanced multiphoton ionization, although it is less efficient than at D/A interfaces. This approach provides insight into long-term photophysical and photochemical processes such as photodegradation.
-   &lt;/div&gt;
-  &lt;/section&gt;
- &lt;/div&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adx9806</guid>
-      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Scalable metal-organic framework membranes through nonclassical crystallization for molecular separation | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adz5237</link>
-      <description>&lt;div id="abstracts"&gt;
- &lt;div&gt;
-  &lt;section id="abstract"&gt;
-   &lt;h2&gt;
-    Abstract
-   &lt;/h2&gt;
-   &lt;div&gt;
-    Structurally ordered metal-organic framework (MOF) membranes hold great promise for selective molecular separations in chemical and pharmaceutical industries due to their precise pore size control and strong stability in organic solvents. However, the high surface energy of MOF nanodispersions complicates their assembly, leading to nonselective grain boundaries and poor processability, which hinder practical application. Here, we present a metastable phase crystallization (MPC) strategy that leverages nonclassical crystallization pathways to fabricate MOF membranes with high precision and structural uniformity. This approach combines sol-gel coating with vapor-phase reactions and ligand insertion, enabling the preparation of membranes with finely tunable pore sizes. Al-MOF membranes prepared by MPC exhibit excellent solvent permeance and solute retention, together with enhanced stability under elevated pressures and long-term operation. By tailoring pore sizes through ligand incorporation, molecular separation performance is further improved. A 10-tube tubular MOF membrane module with an effective area of 230 square centimeters highlights the potential scalability of this approach for industrial separations.
-   &lt;/div&gt;
-  &lt;/section&gt;
- &lt;/div&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz5237</guid>
-      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forced bond ionization–driven design of ultralow lattice thermal conductivity materials for flexible thermoelectrics | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adz7487</link>
-      <description>&lt;div id="abstracts"&gt;
- &lt;div&gt;
-  &lt;section id="abstract"&gt;
-   &lt;h2&gt;
-    Abstract
-   &lt;/h2&gt;
-   &lt;div&gt;
-    The search for development strategies that yield low κ
-    &lt;sub&gt;
-     lat
-    &lt;/sub&gt;
-    has become the focus of thermoelectrics and barrier coatings. Here, we propose a “forced bond ionization” strategy by integrating conflicting coordination environments (planar three coordination versus tetrahedral four coordination of Cu) to form pseudo-tetrahedral structures. This approach induces partial ionization of Cu─I bonds in Cu
-    &lt;sub&gt;
-     5
-    &lt;/sub&gt;
-    TeS
-    &lt;sub&gt;
-     3
-    &lt;/sub&gt;
-    I
-    &lt;sub&gt;
-     3
-    &lt;/sub&gt;
-    (CTSI), yielding a record-low κ
-    &lt;sub&gt;
-     lat
-    &lt;/sub&gt;
-    of 0.17 W/(m·K) for dense inorganic polycrystals. The pseudo-tetrahedral configuration triggers shear modes, markedly reducing the transverse speed of sound (ν
-    &lt;sub&gt;
-     T
-    &lt;/sub&gt;
-    = 839 m/s) and amplifying anharmonicity (Grüneisen parameter γ = 2.76). Theoretical analysis reveals that coordination preference competition provides Cu atoms a metastable site, promoting the disordered behavior. The corresponding vibrations of I atoms and disordered Cu atoms dominate the phonon scattering while the material having remarkable flexibility and certain thermoelectric potential. This work establishes a bond ionization–driven design paradigm for ultralow κ
-    &lt;sub&gt;
-     lat
-    &lt;/sub&gt;
-    materials, marking a leap toward potential flexible thermoelectric applications.
-   &lt;/div&gt;
-  &lt;/section&gt;
- &lt;/div&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz7487</guid>
-      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ultraselective sequestration of Li+ and Mg2+ from brines via a reusable polyoxoniobate-based ion sponge | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adz7696</link>
-      <description>&lt;div id="abstracts"&gt;
- &lt;div&gt;
-  &lt;section id="abstract"&gt;
-   &lt;h2&gt;
-    Abstract
-   &lt;/h2&gt;
-   &lt;div&gt;
-    Lithium (Li) and magnesium (Mg) are designated as critical mineral materials (CMM) due to their essential roles in clean energy technologies. However, extracting high-purity Li
-    &lt;sup&gt;
-     +
-    &lt;/sup&gt;
-    from brine remains a formidable challenge owing to the presence of Mg
-    &lt;sup&gt;
-     2+
-    &lt;/sup&gt;
-    , a physicochemical similar ion that often exists in excess. Here, we introduce a polyoxoniobate-based “Mg-PONb sponge” that enables ultraselective and rapid Li
-    &lt;sup&gt;
-     +
-    &lt;/sup&gt;
-    /Mg
-    &lt;sup&gt;
-     2+
-    &lt;/sup&gt;
-    separation across an exceptionally broad range of Mg/Li ratios (0.02 to 200.63). This framework achieves &amp;gt;99.9% Mg
-    &lt;sup&gt;
-     2+
-    &lt;/sup&gt;
-    removal with negligible Li
-    &lt;sup&gt;
-     +
-    &lt;/sup&gt;
-    loss in under 1 min, yielding Li
-    &lt;sup&gt;
-     +
-    &lt;/sup&gt;
-    /Mg
-    &lt;sup&gt;
-     2+
-    &lt;/sup&gt;
-    selectivity values exceeding 5000. The sponge demonstrates excellent recyclability, maintaining &amp;gt;99% Mg
-    &lt;sup&gt;
-     2+
-    &lt;/sup&gt;
-    rejection and Li
-    &lt;sup&gt;
-     +
-    &lt;/sup&gt;
-    permeability across five regeneration cycles without structural degradation. Mechanistic investigations reveal that selective Mg
-    &lt;sup&gt;
-     2+
-    &lt;/sup&gt;
-    capture originates from strong coordination with terminal oxygens on the PONb cluster, driving rapid formation of porous Mg-PONb frameworks. This work presents a generalizable, scalable strategy for Li
-    &lt;sup&gt;
-     +
-    &lt;/sup&gt;
-    /Mg
-    &lt;sup&gt;
-     2+
-    &lt;/sup&gt;
-    separation and offers a sustainable path toward enhanced Li and Mg recovery from complex brine sources.
-   &lt;/div&gt;
-  &lt;/section&gt;
- &lt;/div&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz7696</guid>
-      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>T-SCAPE: T cell immunogenicity scoring via cross-domain aided predictive engine | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.adz8759</link>
-      <description>&lt;div id="abstracts"&gt;
- &lt;div&gt;
-  &lt;section id="abstract"&gt;
-   &lt;h2&gt;
-    Abstract
-   &lt;/h2&gt;
-   &lt;div&gt;
-    T cell immunogenicity, the ability of peptide fragments to elicit T cell responses, is a critical determinant of the safety and efficacy of protein therapeutics and vaccines. While deep learning shows promise for in silico prediction, the scarcity of comprehensive immunogenicity data is a major challenge. We present T cell immunogenicity scoring via cross-domain aided predictive engine (T-SCAPE), a novel multidomain deep learning framework that leverages adversarial domain adaptation to integrate diverse immunologically relevant data sources, including major histocompatibility complex (MHC) presentation, peptide-MHC (pMHC) binding affinity, T cell receptor–pMHC interaction, source organism information, and T cell activation. Validated through rigorous leakage-controlled benchmarks, T-SCAPE demonstrates exceptional performance in predicting T cell activation for specific peptide-MHC pairs. It also accurately predicts the antidrug antibody–inducing potential of therapeutic antibodies without requiring MHC inputs. This success is attributed to T-SCAPE’s biologically grounded and data-driven multidomain pretraining. Its consistent and robust performance highlights its potential to advance the development of safer and more effective vaccines and protein therapeutics.
-   &lt;/div&gt;
-  &lt;/section&gt;
- &lt;/div&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.adz8759</guid>
-      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>High-entropy perovskite oxides: Morphotropic phase boundary interfacial engineering for next-generation communications | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.aea0362</link>
-      <description>&lt;div id="abstracts"&gt;
- &lt;div&gt;
-  &lt;section id="abstract"&gt;
-   &lt;h2&gt;
-    Abstract
-   &lt;/h2&gt;
-   &lt;div&gt;
-    Precise atomic-level control over interfacial charge density and lattice distortions remains a critical challenge across electromagnetism, optoelectronics, and catalysis. Here, we introduce a high-entropy strategy that leverages local compositional disorder to synergistically manipulate charge density distribution and lattice strain at anisotropic morphotropic phase boundary (MPB) interfaces. Experimental and computational studies reveal that high-entropy effect stabilizes multiphase polar nanoclusters within high-entropy perovskite oxides (HEPOs). This unique structural feature drives efficient charge density redistribution, substantially enhancing MPB interfacial polarization. We showcase this approach in electromagnetism, where MPB interfacial engineering effectively transforms perovskite oxides from negligible to high-performance microwave absorption capability in the low-frequency range. It provides complete absorption coverage of the 5G n79 band and an unprecedented absorption efficiency of 0.71 GHz/mm, considerably surpassing state-of-the-art perovskite-based low-frequency absorbers. This work markedly underscores the feasibility of perovskite for effective low-frequency absorption in next-generation communication technologies while also highlighting the broad potential of our MPB interfacial engineering strategy in catalysis, photonics, and energy storage.
-   &lt;/div&gt;
-  &lt;/section&gt;
- &lt;/div&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea0362</guid>
-      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>17-GHz lossless InP-membrane active metasurface | Science Advances</title>
-      <link>https://www.science.org/doi/10.1126/sciadv.aea3538</link>
-      <description>&lt;div id="abstracts"&gt;
- &lt;div&gt;
-  &lt;section id="abstract"&gt;
-   &lt;h2&gt;
-    Abstract
-   &lt;/h2&gt;
-   &lt;div&gt;
-    High-speed active metasurfaces enable spatiotemporal light control within an ultrathin device layer, offering previously unexplored possibilities for optical communication, sensing, and computing. However, a trade-off between electrical conductivity and optical loss has hindered the realization of a high-speed, low-loss device. Here, we experimentally demonstrate an active metasurface operating at 1.5-μm wavelength range that achieves a record-high 17.5-GHz modulation bandwidth while maintaining a high quality (
-    &lt;i&gt;
-     Q
-    &lt;/i&gt;
-    ) factor of 102 and an ultralow optical loss of 0.56 dB. This is enabled by the indium phosphide (InP) membrane platform, where n-InP offers high electron mobility and low free-carrier absorption simultaneously. A high-
-    &lt;i&gt;
-     Q
-    &lt;/i&gt;
-    Friedrich-Wintgen quasi-bound-state-in-the-continuum mode within the InP-membrane high-contrast grating (InP HCG) traps light in the organic electro-optic material for efficient modulation. The InP HCG also functions as an ultralow-resistance interdigitated electrode, enabling 50-fold faster modulation than silicon-based counterparts. Our work paves the way toward active metasurfaces for high-speed spatiotemporal light control beyond the GHz regime.
-   &lt;/div&gt;
-  &lt;/section&gt;
- &lt;/div&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea3538</guid>
-      <pubDate>Fri, 05 Dec 2025 14:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.science.org/doi/10.1126/sciadv.aea3844</guid>
+      <pubDate>Wed, 10 Dec 2025 14:01:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
