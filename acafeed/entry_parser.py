@@ -9,6 +9,9 @@ for ML classification.
 from typing import List, Dict, Any
 import datetime
 from dateutil import parser as date_parser
+import re
+from html import unescape
+from typing import Optional
 
 
 def _safe_get(entry: dict, key: str, default="N/A"):
@@ -17,7 +20,37 @@ def _safe_get(entry: dict, key: str, default="N/A"):
     return value if value not in (None, "") else default
 
 
-from typing import Optional
+def clean_summary(raw_summary: str) -> str:
+    if not raw_summary:
+        return ""
+
+    text = raw_summary
+
+    # Remove HTML tags
+    text = re.sub(r"<.*?>", " ", text)
+
+    # Remove "Published online: <date>"
+    text = re.sub(
+        r"Published online:\s*\d{1,2}\s+\w+\s+\d{4}", 
+        "", 
+        text, 
+        flags=re.IGNORECASE
+    )
+
+    # Remove DOI patterns
+    text = re.sub(
+        r"doi:\s*\S+", 
+        "", 
+        text, 
+        flags=re.IGNORECASE
+    )
+
+    # Collapse whitespace
+    text = re.sub(r"\s{2,}", " ", text).strip()
+
+    return text
+
+
 
 def _parse_date(date_str: Optional[str]):
     """Convert RSS date string to datetime.datetime (if possible)."""
@@ -40,6 +73,17 @@ def _parse_authors(entry: dict) -> str:
         return entry["author"]
 
     return "Unknown"
+    
+
+
+def clean_html(text: str) -> str:
+    """Remove HTML tags and unescape HTML entities."""
+    if not text:
+        return ""
+    text = unescape(text)
+    # remove tags like <p>...</p>
+    text = re.sub(r"<[^>]+>", "", text)
+    return text.strip()
 
 
 def parse_entries(feed_data) -> List[Dict[str, Any]]:
@@ -54,31 +98,41 @@ def parse_entries(feed_data) -> List[Dict[str, Any]]:
     -------
     List[dict] : cleaned, standardized entries
     """
+
     parsed_entries = []
 
     for item in feed_data.entries:
         entry = {}
 
+        # ---- Basic fields ----
         entry["title"] = _safe_get(item, "title", "Untitled Paper")
-        entry["summary"] = _safe_get(item, "summary", "No abstract available")
+
+        # Get and clean summary
+        raw_summary = _safe_get(item, "summary", "")
+        cleaned_summary = clean_summary(raw_summary)
+        if not cleaned_summary:
+            cleaned_summary = "No abstract available"
+        entry["summary"] = cleaned_summary
+
         entry["link"] = _safe_get(item, "link", "N/A")
         entry["authors"] = _parse_authors(item)
 
-        # publication date: published > updated > None
+        # ---- Publication date ----
         pub_raw = (
             _safe_get(item, "published", None)
             or _safe_get(item, "updated", None)
         )
         entry["published"] = _parse_date(pub_raw)
 
-        # source (journal name)
+        # ---- Source (journal name) ----
         entry["source"] = feed_data.feed.get("title", "Unknown Source")
 
-        # cleanup summary text formatting
-        entry["summary"] = entry["summary"].replace("\n", " ").strip()
+        # ---- Text used for ML classification ----
+        entry["text_for_classification"] = " ".join(
+            part for part in [entry["title"], entry["summary"]] if part
+        )
 
         parsed_entries.append(entry)
 
     return parsed_entries
-
 
